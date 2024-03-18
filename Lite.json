@@ -165,13 +165,15 @@
             {
       "key": "X开源精粹",
       "name": "关注公众号：X开源精粹",
-      "type": 0,
-      "searchable": 1},
+      "type": 3,
+      "api": "csp_X",
+      "searchable": 0},
                   {
       "key": "X影视仓",
       "name": "关注公众号：X影视仓",
-      "type": 0,
-      "searchable": 1}
+      "type": 3,
+      "api": "csp_X",
+      "searchable": 0}
 
 
 
