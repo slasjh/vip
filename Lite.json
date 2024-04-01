@@ -48,7 +48,7 @@
                 "分类url": "https://www.jkdy.cc/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
                 "分类": "电影$1#剧集$2#动漫$4#综艺$4",
                 "搜索模式": "0"
-            }
+            },
 
  //   {"key": "码上👓猫-🛣┃低端", "name": "👓影院②", "type": 3, "playerType": "2", "api": "./js/lib/drpy2.min.js", "ext": "./lib/ddys.js"},
 
