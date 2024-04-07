@@ -38,13 +38,15 @@
    //  "jar": "./lib/fix1170.jar"},//👩‍❤️‍💋‍👨一起看影院
 //{"key":"csp_YQKAPP","name":"👌X影视仓","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top","jar":"./lib/fix1170.jar"},//👩‍👦一起看电视
   {"key": "dr_码上看荐片", "name": "👓影院①", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/荐片.js"},
- {
+  {
       "key": "ikanbot3",
       "name": "👓影院②",
       "type": 3,
-      "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
-      "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/ikanbot3.js"
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./lib/ikanbot3.js"
     },	
+ //{ "key": "ikanbot3", "name": "👓影院②", "type": 3, "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js", "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/ikanbot3.js" },	
+
 
 
  //   {"key": "码上👓猫-🛣┃低端", "name": "👓影院②", "type": 3, "playerType": "2", "api": "./js/lib/drpy2.min.js", "ext": "./lib/ddys.js"},
@@ -125,7 +127,7 @@
 
 //{"key": "lurenjia", "name": "💢接口①", "type": 1, "api": "http://dytt996.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "playUrl": "json:https://gg.dytt996.com/quad.php?url="},
  
- {"key": "dr_码上农民", "name": "🧑‍🌾接口①", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://raw.gitmirror.com/bestpvp/tm/main/source/nightly/sites/码上/农民影视.js"},
+ {"key": "dr_码上农民", "name": "🧑‍🌾接口①", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/nmys.js"},
  //   {"key": "dr_码上时光", "name": "☀️接口②", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://raw.gitmirror.com/bestpvp/tm/main/source/nightly/sites/码上/时光影视.js"}, 
   
  // {"key": "码上👓猫-🛣┃低端", "name": "🛣接口②", "type": 3, "playerType": "2", "api": "./js/lib/drpy2.min.js", "ext": "./lib/ddys.js"},
