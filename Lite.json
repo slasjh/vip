@@ -100,7 +100,8 @@
                 "线路数组": "<a&&</a>[排序:独家>蓝光8>FF线路>蓝光7>蓝光2>蓝光2-1>蓝光2-2>XL线路>HN线路>SB线路]",
                 "线路标题": "source-item-label\">&&</span>",
                 "分类url": "https://www.keke6.app/show/{cateId}-{class}-{area}-{lang}-{year}-3-{catePg}.html",
-                "分类": "X影视-电影$1#电视剧$2#动漫$3#综艺$4#短剧$6", "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
+                "分类": "X影视-电影$1#电视剧$2#动漫$3#综艺$4#短剧$6", 
+                "jar":"./yydf.txt;md5;f90dbcbf8dd966817a5db78abb758023"
             }
         },
 
