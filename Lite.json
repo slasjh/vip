@@ -100,12 +100,11 @@
                 "线路数组": "<a&&</a>[排序:独家>蓝光8>FF线路>蓝光7>蓝光2>蓝光2-1>蓝光2-2>XL线路>HN线路>SB线路]",
                 "线路标题": "source-item-label\">&&</span>",
                 "分类url": "https://www.keke6.app/show/{cateId}-{class}-{area}-{lang}-{year}-3-{catePg}.html",
-                "分类": "电影$1#电视剧$2#动漫$3#综艺$4#短剧$6"
+                "分类": "X影视-电影$1#电视剧$2#动漫$3#综艺$4#短剧$6"
             }
         },
 
-   // {"key": "一起看 ","name": "👫独家①","type": 3,"api": "csp_YQKan",
-       "searchable": 1,"quickSearch": 1, "changeable": 1},
+   // {"key": "一起看 ","name": "👫独家①","type": 3,"api": "csp_YQKan", "searchable": 1,"quickSearch": 1, "changeable": 1},
 //{"key": "一起看-饭 ", "name": "👫独家①", "type": 3, "api": "csp_YQKan", "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "./lib/fan.jar;md5;be6121b5c37471b191114027123912d2"},  
 {"key": "yqikan","name": "👫独家②","type": 3, "api": "csp_YQKAPP", "ext": "https://api-aws.ctdy.cc",
     "jar": "./lib/fix1170.jar"},
