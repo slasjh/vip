@@ -50,12 +50,13 @@
             "name": "👓影院①",
             "type": 3,
             "api": "csp_XYQBiu",
-            "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e",
+            "jar": "./XYQ_git_.jar;md5;",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQBiu/TVB云播.json"  
            },
+           //       "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e",
                      {
             "key": "🔥码上看乐鱼",
             "name": "👓影院②",
@@ -111,7 +112,7 @@
   //   "ext": "https://www.ysgc3.cc/","jar": "./custom_spider_stable1019.jar;md5;E60EE56ECB22EA3575471E7DD9E0C338"},
 {"key":"drpy_js_影视工场","name":"🏭云播①","type":3,"api":"./lib/drpy2.min.js","ext":"https://gitlab.com/mfkdy/cy/-/raw/main/lib/影视工场.js"},
  {"key": "csp_XYQHiker_影视工场2","name": "🏭云播②","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,  
-"changeable": 1,"filterable": 1,"ext": "./lib/影视工场2.json", "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e" },
+"changeable": 1,"filterable": 1,"ext": "./lib/影视工场2.json",  "jar": "./XYQ_git_.jar;md5;" },
 {"key":"csp_xBPQ_文才-秒","name":"👿云播③","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/lib/文才.json"},
 //{"key":"csp_xBPQ_文才-秒","name":"👿云播③","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"jar": "./custom_spider_20240407.tms;md5;36fc643718eb5b15a7f1f991c0715aa4","ext":"https://gitlab.com/mfkdy/cy/-/raw/main/lib/文才.json"},
  
@@ -142,8 +143,8 @@
 
  
    {"key": "dr_看动漫", "name": "🔥动漫", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/哔哩影视.js"} ,
-  {"key": "csp_XYQHiker_短剧网","name":"💢短剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/短剧网.json"},
-   {"key": "csp_XYQHiker_在线之家","name":"🏠美剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/在线之家.json","jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
+  {"key": "csp_XYQHiker_短剧网","name":"💢短剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1, "jar": "./XYQ_git_.jar;md5;","ext":"./lib/短剧网.json"},
+   {"key": "csp_XYQHiker_在线之家","name":"🏠美剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/在线之家.json", "jar": "./XYQ_git_.jar;md5;"},
 // {"key":"csp_视觉","name":"👓美剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 //"ext":"./lib/xinshijue.json","jar": "./lib/小米ab.jar"},
 
@@ -163,11 +164,11 @@
  //   {"key": "dr_码上时光", "name": "☀️接口②", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://raw.gitmirror.com/bestpvp/tm/main/source/nightly/sites/码上/时光影视.js"}, 
   
  // {"key": "码上👓猫-🛣┃低端", "name": "🛣接口②", "type": 3, "playerType": "2", "api": "./js/lib/drpy2.min.js", "ext": "./lib/ddys.js"},
-{"key": "csp_XYQHiker_奈飞中文","name":"✈️接口①","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/奈飞中文.json"},
- {"key": "csp_XYQHiker_鸭奈飞影视","name":"🦆接口②","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/鸭奈飞影视.json"},
+{"key": "csp_XYQHiker_奈飞中文","name":"✈️接口①","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1, "jar": "./XYQ_git_.jar;md5;","ext":"./lib/奈飞中文.json"},
+ {"key": "csp_XYQHiker_鸭奈飞影视","name":"🦆接口②","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1, "jar": "./XYQ_git_.jar;md5;","ext":"./lib/鸭奈飞影视.json"},
 
    {"key": "dr_码上跟剧", "name": "📺️接口③", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/我爱跟剧.js"},
-  {"key": "csp_XYQHiker_555影视","name":"🌙接口④","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/555影视.json"},
+  {"key": "csp_XYQHiker_555影视","name":"🌙接口④","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1, "jar": "./XYQ_git_.jar;md5;","ext":"./lib/555影视.json"},
 
  
 
