@@ -114,11 +114,11 @@
   //   "ext": "https://www.ysgc3.cc/","jar": "./custom_spider_stable1019.jar;md5;E60EE56ECB22EA3575471E7DD9E0C338"},
 {"key":"drpy_js_影视工场","name":"🏭云播①","type":3,"api":"./lib/drpy2.min.js","ext":"https://gitlab.com/mfkdy/cy/-/raw/main/lib/影视工场.js"},
  {"key": "csp_XYQHiker_影视工场2","name": "🏭云播②","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,  
-"changeable": 1,"filterable": 1,"ext": "./lib/影视工场2.json",  "jar":"./XYQ_0430_1.jar;md5;c803985e170063b6197eb32bf190f741" },
+"changeable": 1,"filterable": 1,"ext": "./lib/影视工场2.json",  "jar":"./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649" },
 {"key":"csp_xBPQ_文才-秒","name":"👿云播③","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/lib/文才.json"},
 //{"key":"csp_xBPQ_文才-秒","name":"👿云播③","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"jar": "./custom_spider_20240407.tms;md5;36fc643718eb5b15a7f1f991c0715aa4","ext":"https://gitlab.com/mfkdy/cy/-/raw/main/lib/文才.json"},
  
-{ "key": "电影港4k磁力",    "name": "💥iMAX①",      "type": 3,    "api": "csp_XYQHiker",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 1,    "ext": "./lib/电影港磁力.json",      "jar":"./XYQ_0430_1.jar;md5;c803985e170063b6197eb32bf190f741" },
+{ "key": "电影港4k磁力",    "name": "💥iMAX①",      "type": 3,    "api": "csp_XYQHiker",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 1,    "ext": "./lib/电影港磁力.json",      "jar":"./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649" },
 //{ "key": "csp_xpath_yinfans", 			"name": "💥iMAX②", 			"type": 3, 			
 //"api": "csp_XPath", 			"searchable": 1, 			"quickSearch": 1, 			"filterable": 1, 	"ext": "./lib/音范丝.json"}, 
                   {
@@ -131,7 +131,7 @@
 
       "api": "csp_New6v",
 
-      "jar": "./XYQ_0430_1.jar;md5;c803985e170063b6197eb32bf190f741",
+      "jar": "./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649",
 
       "searchable": 1,
 
@@ -145,8 +145,8 @@
 
  
    {"key": "dr_看动漫", "name": "🔥动漫", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/哔哩影视.js"} ,
-  {"key": "csp_XYQHiker_短剧网","name":"💢短剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1, "jar":"./XYQ_0430_1.jar;md5;c803985e170063b6197eb32bf190f741","ext":"./lib/短剧网.json"},
-   {"key": "csp_XYQHiker_在线之家","name":"🏠美剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/在线之家.json", "jar":"./XYQ_0430_1.jar;md5;c803985e170063b6197eb32bf190f741"},
+  {"key": "csp_XYQHiker_短剧网","name":"💢短剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1, "jar":"./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649","ext":"./lib/短剧网.json"},
+   {"key": "csp_XYQHiker_在线之家","name":"🏠美剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/在线之家.json", "jar":"./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649"},
 // {"key":"csp_视觉","name":"👓美剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 //"ext":"./lib/xinshijue.json","jar": "./lib/小米ab.jar"},
 
