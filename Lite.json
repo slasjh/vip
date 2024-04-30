@@ -145,7 +145,19 @@
 
  
    {"key": "dr_看动漫", "name": "🔥动漫", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/哔哩影视.js"} ,
-  {"key": "csp_XYQHiker_短剧网","name":"💢短剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1, "jar":"./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649","ext":"./lib/短剧网.json"},
+    {
+            "key": "lz影院",
+            "name": "💢短剧",
+            "type": 1,
+            "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "短剧"
+            ]
+        },
+  //{"key": "csp_XYQHiker_短剧网","name":"💢短剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1, "jar":"./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649","ext":"./lib/短剧网.json"},
    {"key": "csp_XYQHiker_在线之家","name":"🏠美剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/在线之家.json", "jar":"./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649"},
 // {"key":"csp_视觉","name":"👓美剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 //"ext":"./lib/xinshijue.json","jar": "./lib/小米ab.jar"},
