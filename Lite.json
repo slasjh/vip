@@ -101,8 +101,15 @@
 
    // {"key": "一起看 ","name": "👫独家①","type": 3,"api": "csp_YQKan", "searchable": 1,"quickSearch": 1, "changeable": 1},
 //{"key": "一起看-饭 ", "name": "👫独家①", "type": 3, "api": "csp_YQKan", "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "./lib/fan.jar;md5;be6121b5c37471b191114027123912d2"},  
-{"key": "yqikan","name": "👫独家②","type": 3, "api": "csp_YQKAPP", "ext": "https://api-aws.ctdy.cc",
-    "jar": "./lib/fix1170.jar"},
+//{"key": "yqikan","name": "👫独家②","type": 3, "api": "csp_YQKAPP", "ext": "https://api-aws.ctdy.cc","jar": "./lib/fix1170.jar"},
+ {
+      "key": "ikanbot3",
+      "name": "👫独家②",
+      "type": 3,
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./lib/ikanbot3.js"
+    },
+
      {"key": "dr_码上看荐片", "name": "🎬独家③", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/荐片.js"},
  
 
@@ -117,6 +124,25 @@
 "changeable": 1,"filterable": 1,"ext": "./lib/影视工场2.json",  "jar":"./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649" },
 {"key":"csp_xBPQ_文才-秒","name":"👿云播③","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/lib/文才.json"},
 //{"key":"csp_xBPQ_文才-秒","name":"👿云播③","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"jar": "./custom_spider_20240407.tms;md5;36fc643718eb5b15a7f1f991c0715aa4","ext":"https://gitlab.com/mfkdy/cy/-/raw/main/lib/文才.json"},
+   {
+
+      "key": "csp_rbzj",
+
+      "name": "💥云播④",
+
+      "type": 3,
+
+      "api": "csp_XBPQ",
+
+      "searchable": 1,
+
+      "quickSearch": 1,
+
+      "filterable": 1,
+
+      "ext": "./lib/热播之家.json"
+
+    },
  
 { "key": "电影港4k磁力",    "name": "💥iMAX①",      "type": 3,    "api": "csp_XYQHiker",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 1,    "ext": "./lib/电影港磁力.json",      "jar":"./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649" },
 //{ "key": "csp_xpath_yinfans", 			"name": "💥iMAX②", 			"type": 3, 			
@@ -142,6 +168,22 @@
       "ext": "http://www.xb6v.com"
 
     },
+    {"key":"布谷tv","name":"🔴iMAX③","type":3,"api":"csp_XBPQ",
+      "ext":{
+        "搜索链接":"https://www.bugutv.org/page/{pg}?cat&s={wd}",
+        "简介":"◎简*介</p >&&</p >",
+        "影片年代":"◎上映 日期&&<br>",
+        "影片地区":"◎产*地&&<br>",
+        "线路数组":"entry-content u-text-format u-clearfix&&\"content-template",
+        "线路标题":"磁力",
+        "播放数组":"entry-content u-text-format u-clearfix&&\"content-template",
+        "播放列表":"<p>&&</p >[包含:magnet]",
+        "播放链接":"*\">&&</a >",
+        "分类":"4KUHD电影$4kuhd#4K电影$4kmovie#4K剧集$4ktv#杜比视界$dolbyvision#4K纪录片$4kdocu#4K演示片$4kdemo/4ktv-4ktv#杜比演示片$4kdemo/dolbydomo#DTS演示片$4kdemo/dtsdomo#8K演示片$4kdemo/8kdemo#蓝光电影$bluraymovie/bluray-movie#蓝光剧集$bluraymovie/bluraytv#3D蓝光$bluraymovie/3dmovie#蓝光纪录片$bluraymovie/documentary#蓝光演唱会$bluraymovie/audiotest",
+        "分类链接":"https://www.bugutv.org/{cateId}/page/{catePg}"
+      }
+    },
+
 
  
    {"key": "dr_看动漫", "name": "🔥动漫", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/哔哩影视.js"} ,
@@ -213,6 +255,7 @@
 
    {"key": "dr_码上跟剧", "name": "📺️接口⑤", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/我爱跟剧.js"},
   {"key": "csp_XYQHiker_555影视","name":"🌙接口⑥","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1, "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/555影视.json"},
+
 
  
 
