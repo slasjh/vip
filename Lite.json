@@ -148,7 +148,7 @@
 
       "filterable": 1,
 
-      "ext": "./lib/热播之家.json"
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/热播之家.json"
 
     },
  
