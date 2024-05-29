@@ -29,7 +29,7 @@
                 "type": 3,
                 "api": "csp_XBPQ",
                 "ext": {
-                       "分类": "逆袭$1#甜宠$3#虐恋$5#穿越$7#重生$9#都市$11#现代言情$13#古装$15#古装言情$17#战神$19#神医$21#神豪$23#超能$25#萌宝$27#复仇$29#脑洞$31#赘婿$33#玄幻$35#热血$37#其他$39",
+                       "分类": "X影视逆袭$1#甜宠$3#虐恋$5#穿越$7#重生$9#都市$11#现代言情$13#古装$15#古装言情$17#战神$19#神医$21#神豪$23#超能$25#萌宝$27#复仇$29#脑洞$31#赘婿$33#玄幻$35#热血$37#其他$39",
                         "分类url": "http://5uduanju.com/vodshow/{cateId}--------{catePg}---.html"
                 }},
                   {
@@ -40,7 +40,7 @@
             "ext": {
                 "数组": "class=\"stui-vodlist__box&&</li",
                 "分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",
-                "分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"
+                "分类": "X影视微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"
             }
         },
 
@@ -55,7 +55,7 @@
                 "线路数组": "\"more text-muted pull-right\">&&</ul>",
                 "播放数组": "\"more text-muted pull-right\">&&</ul>",
                 "播放链接": "http+://www.duanjutv.cc+href='&&'",
-                "分类": "抖音短剧$20#快手短剧$21#视频号短剧$22#热播短剧$23",
+                "分类": "X影视抖音短剧$20#快手短剧$21#视频号短剧$22#热播短剧$23",
                 "分类链接": "http://www.duanjutv.cc/vodtype/{cateId}-{catePg}.html;;m"
             }
         },              {
@@ -64,7 +64,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
-                "分类": "恋爱$lianai#反转$fanzhuan#悬疑$xuanyi#穿越$chuanyue#古装$guzhuang#都市$dushi",
+                "分类": "X影视恋爱$lianai#反转$fanzhuan#悬疑$xuanyi#穿越$chuanyue#古装$guzhuang#都市$dushi",
                 "分类url": "https://duanju8.cc/type/{cateId}/page/{catePg}.html"
             }
         },
@@ -86,7 +86,7 @@
     "quickSearch": 1,
     "filterable": 1,
       "ext": { "请求头": "User-Agent$MOBILE_UA","分类url": "https://www.keke2.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
- "分类": "X影视$6",
+ "分类": "X影视短剧$6",
  			"主页url": "https://www.keke2.app",
 "图片":"data-original=\"&&\"[替换:/vod1>>https://vres.miximixi.me/vod1]" , 
 "搜索url": "https://www.keke2.app/search?k={wd}" }
@@ -100,7 +100,7 @@
     "quickSearch": 1,
     "filterable": 1,
       "ext": { "请求头": "User-Agent$MOBILE_UA","分类url": "https://www.ncat3.com:51111/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
- "分类": "X影视$6",
+ "分类": "X影视短剧$6",
  			"主页url": "https://www.ncat3.com:51111",
 "图片":"data-original=\"&&\"[替换:/vod1>>https://vres.miximixi.me/vod1]" , 
 "搜索url": "https://www.ncat3.com:51111/search?k={wd}" }
