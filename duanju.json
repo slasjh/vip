@@ -159,6 +159,7 @@
             "jar": "./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649",
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/dj/Bili%E7%9F%AD%E5%89%A7.json"
         },
+        {"key":"天龙高清","name":"🐉接口⑧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"发布地址":"http://113276.xyz","数组":"<li><a&&BR>分类","图片":"src=\"&&\"","副标题":"BR>状态：&&<","简介":"</font></br>&&</div>","线路数组":"<i class=\"iconfont\"&&/font","线路标题":"</i>&&<","播放数组":"<div class=\"list playlist&&</div","播放链接":"http://www.82mao.com/+href=\"javascript:OpenWindow3(\'/&&\',window)\"","跳转播放链接":"http://cdn.tl86dyw.site/cs1/?id=+var player_*url\":\"&&\"","搜索url":"http://www.82mao.com/Search/{wd}----------{pg}---.html","分类url":"http://www.82mao.com/List/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"X影视短剧$53"}},
        // { "key": "csp_xml_红牛资源",  "name": "🐝接口⑨", "type": 1, "api": "https://www.hongniuzy2.com/api.php/provide/vod/","categories": ["短剧"], "playUrl": "", "searchable": 1, "quickSearch": 1  },
       //  { "key": "49zy", "name": "🚄接口⑥",  "type": 1,  "api": "https://49zyw.com/api.php/provide/vod/?ac=list",  "searchable": 1, "quickSearch": 1,  "filterable": 1,  "changeable": 1, "categories": ["短剧"] },
   
