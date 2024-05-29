@@ -120,7 +120,7 @@
       "key": "X影视仓-非凡",
       "name": "关注公众号：X影视仓",
       "type": 0,
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "changeable": 1,"categories": ["动画片","动漫","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]}
 
