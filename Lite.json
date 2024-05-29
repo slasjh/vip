@@ -100,6 +100,15 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "{\"主演\":\"主演：&&</div>\",\"简介\":\"<p>&&<p>\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\":\"class=\\\"module-tab-itemtab-item&&</div>\",\"线路标题\":\"<span>&&</small>[不包含:夸克4K]\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$1#电视剧$2#动漫$4#综艺$3\",\"分类url\":\"https://www.3ayy.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}"},
+                    {
+            "key": "厂长",
+            "name": "🏭云播④",
+            "type": 3,
+            "playerType": "2",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/js/lib/drpy2.min.js",
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/%E5%8E%82%E9%95%BF.js"
+        },
+
 
                {
             "key": "🔥看乐鱼",
@@ -213,19 +222,17 @@
 
  
    {"key": "dr_看动漫", "name": "🔥动漫", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/哔哩影视.js"} ,
-        {
-            "key": "哔哩短剧",
-            "name": "🅱️短剧",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649",
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/dj/Bili%E7%9F%AD%E5%89%A7.json"
-        },
-   
-  //{"key": "csp_XYQHiker_短剧网","name":"💢短剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1, "jar":"./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649","ext":"./lib/短剧网.json"},
+                 {
+                "key": "XBPQ_无忧短剧",
+                "name": "💢短剧",
+                "type": 3,
+                "api": "csp_XBPQ",
+                "ext": {
+                       "分类": "X影视逆袭$1#甜宠$3#虐恋$5#穿越$7#重生$9#都市$11#现代言情$13#古装$15#古装言情$17#战神$19#神医$21#神豪$23#超能$25#萌宝$27#复仇$29#脑洞$31#赘婿$33#玄幻$35#热血$37#其他$39",
+                        "分类url": "http://5uduanju.com/vodshow/{cateId}--------{catePg}---.html"
+                }},
+
+
    {"key": "csp_XYQHiker_在线之家","name":"🏠美剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/在线之家.json", "jar":"./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649"},
 // {"key":"csp_视觉","name":"👓美剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 //"ext":"./lib/xinshijue.json","jar": "./lib/小米ab.jar"},
@@ -296,7 +303,7 @@
 
       "key": "csp_rbzj",
 
-      "name": "👉接口⑦",
+      "name": "👉接口⑧",
 
       "type": 3,
 
@@ -311,7 +318,7 @@
       "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/热播之家.json"
 
     },
-
+{"key":"天龙高清","name":"🐉接口⑨","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"发布地址":"http://113276.xyz","数组":"<li><a&&BR>分类","图片":"src=\"&&\"","副标题":"BR>状态：&&<","简介":"</font></br>&&</div>","线路数组":"<i class=\"iconfont\"&&/font","线路标题":"</i>&&<","播放数组":"<div class=\"list playlist&&</div","播放链接":"http://www.82mao.com/+href=\"javascript:OpenWindow3(\'/&&\',window)\"","跳转播放链接":"http://cdn.tl86dyw.site/cs1/?id=+var player_*url\":\"&&\"","搜索url":"http://www.82mao.com/Search/{wd}----------{pg}---.html","分类url":"http://www.82mao.com/List/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$53#电影频道$17#电视剧场$18#综艺小品$20#动漫频道$48#经典系列$16#动作片$1#喜剧片$2#爱情片$3#科幻片$4#恐怖片$5#剧情片$6#战争片$13#纪录片$14#微电影$19#国产剧$9#香港剧$10#台湾剧$21#韩国剧$12#日本剧$22#欧美剧$11#泰国剧$23#海外剧$24#TVB专区$52#综艺片$8#内地综艺$25#港台综艺$26#日韩综艺$27#欧美综艺$28#动画片$7#国产动漫$29#日韩动漫$30#欧美动漫$31#港台动漫$32#海外动漫$33"}},
  
 
   //{"key": "dr_码上农民", "name": "🧑‍🌾接口⑤⑥", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/nmys.js"},
