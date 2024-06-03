@@ -186,7 +186,18 @@
   "图片": "data-original=\"&&\"",
   "标题": "title=\"&&\"",
   "链接": "href=\"&&\"" }
-},
+},    {
+      "key": " 在线┃直播2",
+      "name": "📺网红直播",
+      "type": 3,
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/ddrpy2.m.js",
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/JustLive.js",
+      "gridview": "0-0-H",
+      "style": {
+        "type": "rect",
+        "ratio": 1.68
+      }
+    },
          {
       "key": "X开源精粹-量子",
       "name": "关注公众号：X开源精粹",
