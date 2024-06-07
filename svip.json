@@ -94,6 +94,52 @@
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/%E4%B8%A4%E4%B8%AABT.js"
         },
+        	{"key":"奈非naifei.art5",
+     "name":"🔥奈非中文naifei.art5",
+     "type":3,"api":"csp_XBPQ",
+     "searchable":1,"quickSearch":1,"filterable":1,
+      "ext":{"分类url": "https://www.naifei.art/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html", "线路数组": "data-dropdown-value=&&</div>[不包含:UK线路#iK线路#TK线路#WJ线路]","线路标题": "<span>&&</small>[排序:LS线路>FM线路>BD线路>GQ线路>SO线路>BF线路]",
+               
+      "分类": "电影$dy#剧集$juji#动漫$dongman#综艺$zongyi"}},
+             {
+            "key": "dr_网飞",
+            "name": "🔥奈飞中文-网飞",
+            "type": 3,
+            "api": "./lib/merge.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/网飞.TV.js"
+        },
+        {
+			"key":"XBPQ_电影先生",
+			"name": "电影先生|XBPQ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": {
+				"分类url": "https://dianyi.ng/pianku-{cateId}-{area}-------{catePg}---{year}.html",
+				"简介": "class=\"video-info-item video-info-content vod_content\">&&</span>",
+				"搜索url": "https://dianyi.ng/search--------------.html?wd={wd}",
+				"搜索数组": "<div class=\"module-item-pic\">&&</div>",
+				"图片": "src=\"&&\"",
+				"搜索标题": "title=\"&&\"",
+				"搜索副标题": ">&&</a >",
+				"线路数组": "data-dropdown-value=&&</div>[不包含:UK节点#iK节点#TK节点#WJ节点#WU节点]",
+                
+				"线路标题": "<span>&&</small>[排序:DI节点>YI节点>AQ节点>HN节点>HD节点>AN节点]",
+				"播放数组": "<div class=\"scroll-content\">&&</div>",
+				"播放标题": "<span>&&</span>",
+				"分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"
+			}
+		},//[替换：DI节点>>非凡#YI节点>>暴风#AQ节点>>新浪#HD节点>>优质#AN节点>>量子]",
+   
+        {
+            "key": "drpy_js_电影先生2",
+            "name": "电影先生2-dr",
+            "type": 3,
+            "api": "/js/lib/drpy2.min.js",
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/%E7%94%B5%E5%BD%B1%E5%85%88%E7%94%9F.js"
+        },
                      {
       "key": "达达龟.jsd",
       "name": "🐼达达龟.js",
@@ -227,11 +273,11 @@
                {"key": "csp_优质","name": "🔥官方①","type": 1,"api": "https://api.1080zyku.com/inc/apijson.php?ac=list ","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": ["动作片","喜剧片","科幻片","奇幻片","恐怖片","灾难片","悬疑片","爱情片","战争片","纪录片","动画电影","大陆剧","欧美剧","港澳剧","韩剧","泰剧","台湾剧","日剧","海外剧","动画片","动漫","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺","搞笑","音乐"]},
              
    {"key":"🔥码上看Voflix","name":"🔥官方③","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1,        "jar": "./custom_spider_20240420_2.tms;md5;bffed34f9f7ba3b644eba4f6df36bab0",        "ext": {
-                "siteUrl": "https://www.voflix.vip","jxToken": "17f755feeff1ceb8bfa53a0488daa7f9d600716649119"
+                "siteUrl": "https://www.voflix.vip","jxToken": "1733529abef79c5fe67a9e54f2bafd189e00717726267"
               //  "jxToken": "tm://tm/jxToken.txt"
             }},
     {"key":"🔥码上看RARBT","name":"🔥官方④","type":3,"api":"csp_Rarbt","searchable":1,"quickSearch":1,"filterable":1     ,   "jar": "./custom_spider_20240420_2.tms;md5;bffed34f9f7ba3b644eba4f6df36bab0",         "ext": {
-                "jxToken": "17f755feeff1ceb8bfa53a0488daa7f9d600716649119"
+                "jxToken": "1733529abef79c5fe67a9e54f2bafd189e00717726267"
             }},
 
 
