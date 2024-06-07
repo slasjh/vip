@@ -112,7 +112,7 @@
 
                {
             "key": "🔥看乐鱼",
-            "name": "👓影院①",
+            "name": "🐟️云播⑤",
             "type": 3,
             "api": "./lib/merge.min.js",
             "searchable": 1,
@@ -123,7 +123,7 @@
         },
               {
             "key": "🔥看18哈",
-            "name": "👓影院②",
+            "name": "👓影院①",
             "type": 3,
             "api": "./lib/merge.min.js",
             "searchable": 1,
@@ -134,7 +134,7 @@
         },
                {
             "key": "csp_XYQBiu_TVB云播",
-            "name": "👓影院③",
+            "name": "👓影院②",
             "type": 3,
             "api": "csp_XYQBiu",
             "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e",
