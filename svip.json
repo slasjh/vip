@@ -54,6 +54,28 @@
                 "港台综艺"
             ]
         },
+                {
+            "key": "🔥码上看低端[JS]",
+            "name": "🔥低端JS",
+            "type": 3,
+            "api": "https://raw.gitmirror.com/bestpvp/tm/main/source/nightly/sites/码上/merge.min.js",
+            "searchable": 1,
+            "playerType": 2,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitmirror.com/bestpvp/tm/main/source/nightly/sites/码上/ddys.js"
+        },
+         {
+            "key": "🔥码上看大师兄",
+            "name": "🔥大师兄js",
+            "type": 3,
+            "api": "./lib/merge.min.js",
+            "searchable": 1,
+            "playerType": 2,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/sites/码上/dsx.js"
+        },
         {"key":"奈非naifei.art5",
      "name":"🔥奈非中文(XBPQ)",
      "type":3,"api":"csp_XBPQ",
@@ -81,28 +103,7 @@
             "filterable": 0,
             "ext": "{\"主演\":\"主演：&&</div>\",\"简介\":\"<p>&&<p>\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\":\"class=\\\"module-tab-itemtab-item&&</div>\",\"线路标题\":\"<span>&&</small>[不包含:夸克4K]\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$1#电视剧$2#动漫$4#综艺$3\",\"分类url\":\"https://www.3ayy.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}"},
                    
-        {
-            "key": "🔥码上看低端[JS]",
-            "name": "🔥低端JS",
-            "type": 3,
-            "api": "https://raw.gitmirror.com/bestpvp/tm/main/source/nightly/sites/码上/merge.min.js",
-            "searchable": 1,
-            "playerType": 2,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.gitmirror.com/bestpvp/tm/main/source/nightly/sites/码上/ddys.js"
-        },
-         {
-            "key": "🔥码上看大师兄",
-            "name": "🔥大师兄js",
-            "type": 3,
-            "api": "./lib/merge.min.js",
-            "searchable": 1,
-            "playerType": 2,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/sites/码上/dsx.js"
-        },
+
                 
           {"key": "csp_XBPQ_两个BT2","name": "两个BT(XBPQ)","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"线路数组":"mi_paly_box\">&&</div>","线路标题":"ypxingq_t\">&&<span>[替换:在线播放>>播放列表]","搜索url":"https://www.bttwoo.com/xssearch?q={wd}&f=_all&p={pg}","播放数组":"<div class=\"paly_list_btn\">&&</div>","分类":"最新电影$new-movie#电视剧$dsj#热门下载$hot#本月热门$new-movie#高分电影$new-month#国产剧$zgjun#美剧$meiju#日韩剧$jpsrtv","分类url":"https://www.bttwoo.com/{cateId}/{area}/{year}/{class}/page/{catePg}"}
         },
@@ -126,7 +127,10 @@
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/%E4%B8%A4%E4%B8%AABT.js"
         },
-        
+
+        {"key": "比特-肥猫", "name": "✌️️┃比特┃影视肥猫", "type": 3, "api": "csp_Bttwo", "jar": "http://like.xn--z7x900a.com/jar/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"}, 
+         {"key": "比特-fan", "name": "🍄比特┃秒播fan", "type": 3, "api": "csp_Bttwoo", "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717839432492/fan.txt;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26"},
+        {"key": "csp_Bttoo", "name": "🔛比特┃蓝光摸鱼", "type": 3, "api": "csp_Bttwoo", "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2"}, 
         
                     {
             "key": "厂长",
