@@ -358,14 +358,12 @@
 },
 
 
-
-   {"key": "dr_码上跟剧", "name": "📺️我爱跟剧", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/我爱跟剧.js"},
         {
             "key": "555一（APP）",
             "name": "🌙555",
             "type": 3,
             "api": "csp_AppYsV2",
-            "ext": "https://55vid.shop/api.php/app/", "categories": [
+            "ext": "https://fivezn.com/api.php/app/", "categories": [
                 "电影","连续剧","动漫","综艺"]
         },
 
