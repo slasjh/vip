@@ -249,13 +249,7 @@
             "filterable": 1,
             "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/sites/码上/dsx.js"
         },
-        		{
-			"key": "畅梦",
-			"name": "🚛畅梦┃秒播",
-			"type": 3,
-			"api": "https://gitlab.com/mfkdy/cy/-/raw/main/js/lib/drpy2.min.js",
-			"ext": "https://gitlab.com/mfkdy/cy/-/raw/main/js/changmeng.js"
-		},		     {
+  		     {
             "key": "🔥码上看白白XBPQ",
             "name": "🔥码上看白白",
             "type": 3,
@@ -283,46 +277,7 @@
 
 
 
-
-
-               {
-            "key": "🔥看乐鱼",
-            "name": "👓乐鱼",
-            "type": 3,
-            "api": "./lib/merge.min.js",
-            "searchable": 1,
-            "playerType": 2,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/leyu.js"
-        },
-              {
-            "key": "🔥看18哈",
-            "name": "👓18哈",
-            "type": 3,
-            "api": "./lib/merge.min.js",
-            "searchable": 1,
-            "playerType": 2,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/18ha.js"
-        },
-               {
-            "key": "csp_XYQBiu_TVB云播",
-            "name": "👓TVB云播",
-            "type": 3,
-            "api": "csp_XYQBiu",
-            "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQBiu/TVB云播.json"  
-           },
-           //       "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e",
-  //{ "key": "ikanbot3", "name": "👓影院②", "type": 3,"api": "./js/lib/drpy2.min.js",  "ext": "./lib/ikanbot3.js" },	
- //{ "key": "ikanbot3", "name": "👓影院②", "type": 3, "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js", "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/ikanbot3.js" },	
-
-
+          
 
 
 
@@ -358,56 +313,16 @@
  
 
  
-{ "key": "电影港4k磁力",    "name": "💥iMAX①",      "type": 3,    "api": "csp_XYQHiker",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 1,    "ext": "./lib/电影港磁力.json",      "jar":"./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649" },
-//{ "key": "csp_xpath_yinfans", 			"name": "💥iMAX②", 			"type": 3, 			
-//"api": "csp_XPath", 			"searchable": 1, 			"quickSearch": 1, 			"filterable": 1, 	"ext": "./lib/音范丝.json"}, 
-                  {
+{ "key": "电影港4k磁力",    "name": "💥电影港",      "type": 3,    "api": "csp_XYQHiker",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 1,    "ext": "./lib/电影港磁力.json",      "jar":"./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649" },
 
-      "key": "csp_New6v",
-
-      "name": "💥6v",
-
-      "type": 3,
-
-      "api": "csp_New6v",
-
-      "jar": "./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649",
-
-      "searchable": 1,
-
-      "quickSearch": 1,
-
-      "filterable": 1,
-
-      "ext": "http://www.xb6v.com"
-
-    },
-          {
-            "key": "🔥码上看迅雷吧",
-            "name": "💥迅雷吧",
-            "type": 3,
-            "api": "csp_Xunlei8",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
 
 
 
  
    {"key": "dr_看动漫", "name": "🔥动漫", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/哔哩影视.js"} ,
-                 {
-                "key": "XBPQ_无忧短剧",
-                "name": "💢短剧",
-                "type": 3,
-                "api": "csp_XBPQ",
-                "ext": {
-                       "分类": "X影视逆袭$1#甜宠$3#虐恋$5#穿越$7#重生$9#都市$11#现代言情$13#古装$15#古装言情$17#战神$19#神医$21#神豪$23#超能$25#萌宝$27#复仇$29#脑洞$31#赘婿$33#玄幻$35#热血$37#其他$39",
-                        "分类url": "http://5uduanju.com/vodshow/{cateId}--------{catePg}---.html"
-                }},
 
 
-   {"key": "csp_XYQHiker_在线之家","name":"🏠在线之家","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/在线之家.json", "jar":"./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649"},
+
 
 
 
@@ -442,8 +357,7 @@
 "搜索url": "https://www.ncat3.com:51111/search?k={wd}" }
 },
 
-{"key": "csp_XYQHiker_奈飞中文","name":"✈️奈飞","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1, "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/奈飞中文.json"},
- {"key": "csp_XYQHiker_鸭奈飞影视","name":"🦆鸭奈飞","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1, "jar": "./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649","ext":"./lib/鸭奈飞影视.json"},
+
 
    {"key": "dr_码上跟剧", "name": "📺️我爱跟剧", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/我爱跟剧.js"},
         {
