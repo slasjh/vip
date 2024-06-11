@@ -20,7 +20,7 @@
    {"key":"豆瓣","name":"🔥豆瓣","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":1},
    {
             "key": "cjzy_360资源",
-            "name": "🧭360资源 | 云播",
+            "name": "🧭360资源",
             "type": 1,
             "api": "https://360zy.com/api.php/provide/vod",
             "playUrl": "",
@@ -78,11 +78,11 @@
             "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/sites/码上/dsx.js"
         },
                  {"key": "dr_码上看荐片", "name": "🎬荐片", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/荐片.js"},
-          {"key": "csp_XBPQ_两个BT2","name": "两个BT(XBPQ) | 专线","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"线路数组":"mi_paly_box\">&&</div>","线路标题":"ypxingq_t\">&&<span>[替换:在线播放>>播放列表]","搜索url":"https://www.bttwoo.com/xssearch?q={wd}&f=_all&p={pg}","播放数组":"<div class=\"paly_list_btn\">&&</div>","分类":"最新电影$new-movie#电视剧$dsj#热门下载$hot#本月热门$new-movie#高分电影$new-month#国产剧$zgjun#美剧$meiju#日韩剧$jpsrtv","分类url":"https://www.bttwoo.com/{cateId}/{area}/{year}/{class}/page/{catePg}"}
+          {"key": "csp_XBPQ_两个BT2","name": "两个BT(XBPQ)","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"线路数组":"mi_paly_box\">&&</div>","线路标题":"ypxingq_t\">&&<span>[替换:在线播放>>播放列表]","搜索url":"https://www.bttwoo.com/xssearch?q={wd}&f=_all&p={pg}","播放数组":"<div class=\"paly_list_btn\">&&</div>","分类":"最新电影$new-movie#电视剧$dsj#热门下载$hot#本月热门$new-movie#高分电影$new-month#国产剧$zgjun#美剧$meiju#日韩剧$jpsrtv","分类url":"https://www.bttwoo.com/{cateId}/{area}/{year}/{class}/page/{catePg}"}
         },
               {
             "key": "csp_xpath_2bt",
-            "name": "两个BT-Xp",
+            "name": "两个BT(XPath)",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
@@ -92,7 +92,7 @@
 
         },                  {
             "key": "hipy_js_2bt-2",
-            "name": "两个BT-dr",
+            "name": "两个BT(drpy)",
             "type": 3,
           "searchable": 1,
          "quickSearch": 0,
@@ -101,7 +101,7 @@
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/%E4%B8%A4%E4%B8%AABT.js"
         },
         {"key":"奈非naifei.art5",
-     "name":"🔥奈非中文XBPQ",
+     "name":"🔥奈非中文(XBPQ)",
      "type":3,"api":"csp_XBPQ",
      "searchable":1,"quickSearch":1,"filterable":1,
       "ext":{"分类url": "https://www.naifei.art/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html", "线路数组": "data-dropdown-value=&&</div>[不包含:UK线路#iK线路#TK线路#WJ线路]","线路标题": "<span>&&</small>[排序:LS线路>FM线路>BD线路>GQ线路>SO线路>BF线路]",
@@ -129,7 +129,7 @@
                    
                     {
             "key": "厂长",
-            "name": "🏭厂长 | 云播",
+            "name": "🏭厂长",
             "type": 3,
             "playerType": "2",
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/js/lib/drpy2.min.js",
@@ -139,7 +139,7 @@
         	
         {
 			"key":"XBPQ_电影先生",
-			"name": "电影先生|XBPQ",
+			"name": "电影先生(XBPQ)",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"ext": {
@@ -161,7 +161,7 @@
    
         {
             "key": "drpy_js_电影先生2",
-            "name": "电影先生2-dr",
+            "name": "电影先生(drpy)",
             "type": 3,
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/js/lib/drpy2.min.js",
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/%E7%94%B5%E5%BD%B1%E5%85%88%E7%94%9F.js"
@@ -199,14 +199,14 @@
  
                      {
       "key": "达达龟.jsd",
-      "name": "🐼达达龟.js",
+      "name": "🐼达达龟(js)",
       "type": 3,
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/js/lib/drpy2.min.js",
       "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/达达龟.js"
     },
                 {
             "key": "J达达龟1.json ",
-            "name": "达达龟",
+            "name": "达达龟(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -222,7 +222,7 @@
 
            {"key": "火狐资源", "name": "🔥火狐资源", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "categories": ["内地剧", "香港剧", "欧美剧", "韩剧", "日剧", "马泰剧", "台湾剧", "动画片", "中国动漫", "日本动漫", "欧美动漫",  "战争片", "动作片", "科幻片", "纪录片", "爱情片", "喜剧片", "灾难片", "悬疑片",  "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺"]}, 
 
-               {"key": "csp_优质","name": "🔥优质","type": 1,"api": "https://api.1080zyku.com/inc/apijson.php?ac=list ","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": ["动作片","喜剧片","科幻片","奇幻片","恐怖片","灾难片","悬疑片","爱情片","战争片","纪录片","动画电影","大陆剧","欧美剧","港澳剧","韩剧","泰剧","台湾剧","日剧","海外剧","动画片","动漫","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺","搞笑","音乐"]},
+               {"key": "csp_优质","name": "🔥优质资源","type": 1,"api": "https://api.1080zyku.com/inc/apijson.php?ac=list ","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": ["动作片","喜剧片","科幻片","奇幻片","恐怖片","灾难片","悬疑片","爱情片","战争片","纪录片","动画电影","大陆剧","欧美剧","港澳剧","韩剧","泰剧","台湾剧","日剧","海外剧","动画片","动漫","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺","搞笑","音乐"]},
                   {"key":"🔥码上看Voflix","name":"🔥Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1,        "jar": "./custom_spider_20240420_2.tms;md5;bffed34f9f7ba3b644eba4f6df36bab0",        "ext": {
                 "siteUrl": "https://www.voflix.vip","jxToken": "1733529abef79c5fe67a9e54f2bafd189e00717726267"
               //  "jxToken": "tm://tm/jxToken.txt"
