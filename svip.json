@@ -91,11 +91,11 @@
             "key": "dr_白白",
             "name": "🔥白白JS",
             "type": 3,
-            "api": "./lib/merge.min.js",
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/merge.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/素白白.js"
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/素白白.js"
         },
                 {
             "key": "🔥码上看白白XBPQ",
