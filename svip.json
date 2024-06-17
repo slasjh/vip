@@ -87,6 +87,28 @@
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/js/lib/drpy2.min.js",
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/%E5%8E%82%E9%95%BF.js"
         },
+                {
+            "key": "dr_白白",
+            "name": "🔥白白JS",
+            "type": 3,
+            "api": "./lib/merge.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/素白白.js"
+        },
+                {
+            "key": "🔥码上看白白XBPQ",
+            "name": "🔥白白XB",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": "2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/%E7%B4%A0%E7%99%BD%E7%99%BD.json"
+        },
+
         {"key":"奈非naifei.art5",
      "name":"🔥奈非中文(XBPQ)",
      "type":3,"api":"csp_XBPQ",
