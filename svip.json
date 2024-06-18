@@ -20,7 +20,7 @@
    {"key":"豆瓣","name":"🔥豆瓣","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":1},
    {
             "key": "cjzy_360资源",
-            "name": "🧭360资源",
+            "name": "🧭360资源┃秒播稳定",
             "type": 1,
             "api": "https://360zy.com/api.php/provide/vod",
             "playUrl": "",
@@ -56,7 +56,7 @@
         },
                 {
             "key": "🔥码上看低端[JS]",
-            "name": "🔥低端JS",
+            "name": "🔥低端JS┃秒播蓝光",
             "type": 3,
             "api": "https://raw.gitmirror.com/bestpvp/tm/main/source/nightly/sites/码上/merge.min.js",
             "searchable": 1,
@@ -81,7 +81,7 @@
         
                     {
             "key": "厂长",
-            "name": "🏭厂长",
+            "name": "🏭厂长┃秒播蓝光",
             "type": 3,
             "playerType": "2",
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/js/lib/drpy2.min.js",
@@ -89,7 +89,7 @@
         },
                 {
             "key": "dr_白白",
-            "name": "🔥白白JS",
+            "name": "🔥白白JS┃秒播蓝光",
             "type": 3,
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/merge.min.js",
             "searchable": 1,
@@ -99,7 +99,7 @@
         },
                 {
             "key": "🔥码上看白白XBPQ",
-            "name": "🔥白白XB",
+            "name": "🔥白白XB┃秒播蓝光",
             "type": 3,
             "api": "csp_XBPQ",
             "playerType": "2",
