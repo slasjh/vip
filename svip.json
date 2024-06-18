@@ -65,7 +65,7 @@
             "filterable": 1,
             "ext": "https://raw.gitmirror.com/bestpvp/tm/main/source/nightly/sites/码上/ddys.js"
         },
-        {"key":"🚀低端|JAR","name":"🚀低端XB┃秒播蓝光","type":3,"api":"csp_XBPQ","playerType":"2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/bestpvp/tm/main/source/nightly/sites/码上/ddys.json"},
+        {"key":"🚀码上低端|JAR","name":"🚀低端XB┃秒播蓝光","type":3,"api":"csp_XBPQ","playerType":"2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/%E4%BD%8E%E7%AB%AF%E5%BD%B1%E8%A7%86ddys.json"},
          {
             "key": "🔥码上看大师兄",
             "name": "🔥大师兄js┃秒播蓝光",
