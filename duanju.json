@@ -27,7 +27,7 @@
             "api": "csp_XBPQ",
             "ext": {
                 "搜索链接": "http://www.duanjutv.cc/vodsearch/{wd}----------{pg}---.html",
-                "线路标题": "<h3*>&&</h3>[排序:速播m3u8>速播云>光速m3u8]",
+                "线路标题": "<h3*>&&</h3>[排序:速播云>速播m3u8>光速m3u8]",
                 "线路数组": "\"more text-muted pull-right\">&&</ul>[不包含:备用#金鹰云]",
                 "播放数组": "\"more text-muted pull-right\">&&</ul>",
                 "播放链接": "http+://www.duanjutv.cc+href='&&'",
