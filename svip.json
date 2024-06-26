@@ -55,8 +55,19 @@
             ]
         },
                 {
+            "key": "csp_xBPQ_秒",
+            "name": "👿文才┃秒播稳定",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/文才.json"
+        },
+
+                {
             "key": "🔥码上看低端[JS]",
-            "name": "🚀低端JS┃秒播蓝光",
+            "name": "🪫低端JS┃秒播蓝光",
             "type": 3,
             "api": "https://raw.gitmirror.com/bestpvp/tm/main/source/nightly/sites/码上/merge.min.js",
             "searchable": 1,
@@ -65,10 +76,10 @@
             "filterable": 1,
             "ext": "https://raw.gitmirror.com/bestpvp/tm/main/source/nightly/sites/码上/ddys.js"
         },
-        {"key":"🚀码上低端|JAR","name":"🚀低端XB┃秒播蓝光","type":3,"api":"csp_XBPQ","playerType":"2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/%E4%BD%8E%E7%AB%AF%E5%BD%B1%E8%A7%86ddys.json"},
+        {"key":"🚀码上低端|JAR","name":"🪫低端XB┃秒播蓝光","type":3,"api":"csp_XBPQ","playerType":"2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/%E4%BD%8E%E7%AB%AF%E5%BD%B1%E8%A7%86ddys.json"},
          {
             "key": "🔥码上看大师兄",
-            "name": "🔥大师兄js┃秒播蓝光",
+            "name": "🦍大师兄js┃秒播蓝光",
             "type": 3,
             "api": "./lib/merge.min.js",
             "searchable": 1,
@@ -77,8 +88,8 @@
             "filterable": 1,
             "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/sites/码上/dsx.js"
         },
-         {"key": "比特-fan", "name": "🍄比特┃秒播蓝光", "type": 3, "api": "csp_Bttwoo", "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717839432492/fan.txt;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26"},
-        {"key": "csp_Bttoo", "name": "🔛比特┃秒播蓝光", "type": 3, "api": "csp_Bttwoo", "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2"}, 
+         {"key": "比特-fan", "name": "💘比特1┃秒播蓝光", "type": 3, "api": "csp_Bttwoo", "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717839432492/fan.txt;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26"},
+        {"key": "csp_Bttoo", "name": "💘比特2┃秒播蓝光", "type": 3, "api": "csp_Bttwoo", "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2"}, 
         
                     {
             "key": "厂长",
@@ -90,7 +101,7 @@
         },
                 {
             "key": "dr_白白",
-            "name": "🔥白白JS┃秒播蓝光",
+            "name": "👩‍🦳白白JS┃秒播蓝光",
             "type": 3,
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/merge.min.js",
             "searchable": 1,
@@ -100,7 +111,7 @@
         },
                 {
             "key": "🔥码上看白白XBPQ",
-            "name": "🔥白白XB┃秒播蓝光",
+            "name": "👩‍🦳白白XB┃秒播蓝光",
             "type": 3,
             "api": "csp_XBPQ",
             "playerType": "2",
@@ -112,7 +123,7 @@
         {"key":"🚀立波|JAR","name":"🚀立波XB┃秒播蓝光","type":3,"api":"csp_XBPQ","playerType":"2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/bestpvp/tm/main/source/nightly/sites/码上/lb.json"},
 
         {"key":"奈非naifei.art5",
-     "name":"🔥奈非XB┃多线",
+     "name":"🛩奈非XB┃多线",
      "type":3,"api":"csp_XBPQ",
      "searchable":1,"quickSearch":1,"filterable":1,
       "ext":{"分类url": "https://www.naifei.io/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html", "线路数组": "data-dropdown-value=&&</div>[不包含:UK线路#iK线路#TK线路#WJ线路]","线路标题": "<span>&&</small>[排序:LS线路>FM线路>BD线路>GQ线路>SO线路>BF线路]",
@@ -120,7 +131,7 @@
       "分类": "电影$dy#剧集$juji#动漫$dongman#综艺$zongyi"}},
              {
             "key": "dr_网飞",
-            "name": "🔥奈飞js┃多线",
+            "name": "🛩奈飞js┃多线",
             "type": 3,
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/merge.min.js",
             "searchable": 1,
@@ -169,20 +180,20 @@
 "搜索url": "https://www.ncat3.com:51111/search?k={wd}" }
 },
 {"key":"天龙高清","name":"🐉天龙┃多线高清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"发布地址":"http://113276.xyz","数组":"<li><a&&BR>分类","图片":"src=\"&&\"","副标题":"BR>状态：&&<","简介":"</font></br>&&</div>","线路数组":"<i class=\"iconfont\"&&/font","线路标题":"</i>&&<","播放数组":"<div class=\"list playlist&&</div","播放链接":"http://www.82mao.com/+href=\"javascript:OpenWindow3(\'/&&\',window)\"","跳转播放链接":"http://cdn.tl86dyw.site/cs1/?id=+var player_*url\":\"&&\"","搜索url":"http://www.82mao.com/Search/{wd}----------{pg}---.html","分类url":"http://www.82mao.com/List/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$53#电影频道$17#电视剧场$18#综艺小品$20#动漫频道$48#经典系列$16#动作片$1#喜剧片$2#爱情片$3#科幻片$4#恐怖片$5#剧情片$6#战争片$13#纪录片$14#微电影$19#国产剧$9#香港剧$10#台湾剧$21#韩国剧$12#日本剧$22#欧美剧$11#泰国剧$23#海外剧$24#TVB专区$52#综艺片$8#内地综艺$25#港台综艺$26#日韩综艺$27#欧美综艺$28#动画片$7#国产动漫$29#日韩动漫$30#欧美动漫$31#港台动漫$32#海外动漫$33"}},
- { "key": "电影港4k磁力",    "name": "💥电影港┃磁力",      "type": 3,    "api": "csp_XYQHiker",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 1,    "ext": "./lib/电影港磁力.json",      "jar":"./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649" },
+ { "key": "电影港4k磁力",    "name": "🚤电影港┃磁力",      "type": 3,    "api": "csp_XYQHiker",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 1,    "ext": "./lib/电影港磁力.json",      "jar":"./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649" },
 
   {"key": "dr_码上看荐片", "name": "🎬荐片┃P2P", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/荐片.js"},
-   {"key": "dr_看动漫", "name": "🔥动漫┃稳定官方", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/哔哩影视.js"} ,
+   {"key": "dr_看动漫", "name": "🅱动漫┃稳定官方", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/哔哩影视.js"} ,
                      {
       "key": "达达龟.jsd",
-      "name": "🐼达达龟js┃多线",
+      "name": "🐢达达龟js┃多线",
       "type": 3,
       "api": "https://gitlab.com/mfkdy/cy/-/raw/main/js/lib/drpy2.min.js",
       "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/达达龟.js"
     },
                 {
             "key": "J达达龟1.json ",
-            "name": "达达龟XB┃多线",
+            "name": "🐢达达龟XB┃多线",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -202,7 +213,7 @@
 
  {
       "key": "ikanbot3",
-      "name": "🧞ikanbot┃多线",
+      "name": "🤖ikanbot┃多线",
       "type": 3,
       "api": "https://gitlab.com/mfkdy/vip/-/raw/main/js/lib/drpy2.min.js",
       "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/ikanbot3.js"
@@ -211,7 +222,7 @@
     
          {
             "key": "极客",
-            "name": "👋极客┃多线",
+            "name": "🐻极客┃多线",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
@@ -229,7 +240,7 @@
 
         {
             "key": "555一（APP）",
-            "name": "🌙555┃多线",
+            "name": "🀝555┃多线",
             "type": 3,
             "api": "csp_AppYsV2",
             "ext": "https://fivezn.com/api.php/app/", "categories": [
@@ -237,7 +248,7 @@
         },
          {
             "key": "大米一（APP）",
-            "name": "🌙大米┃多线",
+            "name": "🍚大米┃多线",
             "type": 3,
             "api": "csp_AppYsV2",
             "ext": "https://damicin.com/api.php/app/", "categories": [
@@ -251,7 +262,7 @@
 
       "key": "csp_rbzj",
 
-      "name": "👉热播┃多线",
+      "name": "⏯热播┃多线",
 
       "type": 3,
 
