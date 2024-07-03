@@ -40,8 +40,8 @@
 
                {"key": "csp_优质","name": "🔥官方①","type": 1,"api": "https://api.1080zyku.com/inc/apijson.php?ac=list ","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": ["动作片","喜剧片","科幻片","奇幻片","恐怖片","灾难片","悬疑片","爱情片","战争片","纪录片","动画电影","大陆剧","欧美剧","港澳剧","韩剧","泰剧","台湾剧","日剧","海外剧","动画片","动漫","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺","搞笑","音乐"]},
                { "key": "速博资源","name": "🔥官方②","type": 1,"api": "https://subocaiji.com/api.php/provide/vod/","playUrl": "", "searchable": 1,"quickSearch": 1,"categories": ["动作片","喜剧片","科幻片","恐怖片","爱情片","战争片","纪录片","动漫电影","大陆剧","美剧","港澳剧","韩剧","泰剧","台湾剧","日剧","综艺","动漫","中国动漫","日本动漫","欧美动漫","港台动漫"]},
-   {"key":"🔥码上看Voflix","name":"🔥官方③","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1,               "ext":  "https://www.voflix.vip"},
-    {"key":"🔥码上看RARBT","name":"🔥官方④","type":3,"api":"csp_Rarbt","searchable":1,"quickSearch":1,"filterable":1 },
+  // {"key":"🔥码上看Voflix","name":"🔥官方③","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1,               "ext":  "https://www.voflix.vip"},
+    {"key":"🔥码上看RARBT","name":"🔥官方③","type":3,"api":"csp_Rarbt","searchable":1,"quickSearch":1,"filterable":1 },
 
 
 
@@ -98,19 +98,10 @@
                 "港台综艺"
             ]
         },
-        {
-            "key": "csp_xBPQ_秒",
-            "name": "👿云播③",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/文才.json"
-        },
+
          {
             "key": "csp_XBPQ_kan",
-            "name": "🎦云播④",
+            "name": "🎦云播③",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -119,7 +110,7 @@
             "ext": "{\"主演\":\"主演：&&</div>\",\"简介\":\"<p>&&<p>\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\":\"class=\\\"module-tab-itemtab-item&&</div>\",\"线路标题\":\"<span>&&</small>[不包含:夸克4K]\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$1#电视剧$2#动漫$4#综艺$3\",\"分类url\":\"https://www.3ayy.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}"},
                     {
             "key": "厂长",
-            "name": "🏭云播⑤",
+            "name": "🏭云播④",
             "type": 3,
             "playerType": "2",
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/js/lib/drpy2.min.js",
@@ -129,7 +120,7 @@
 
                {
             "key": "🔥看乐鱼",
-            "name": "🐟️云播⑥",
+            "name": "🐟️云播⑤",
             "type": 3,
             "api": "./lib/merge.min.js",
             "searchable": 1,
@@ -138,6 +129,9 @@
             "filterable": 1,
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/leyu.js"
         },
+    // { "key": "csp_xBPQ_秒", "name": "👿云播⑥", "type": 3, "api": "csp_XBPQ","searchable": 1,
+ "quickSearch": 1,  "filterable": 1, "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/文才.json" },
+
               {
             "key": "🔥看18哈",
             "name": "👓影院①",
