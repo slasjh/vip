@@ -54,16 +54,7 @@
                 "港台综艺"
             ]
         },
-                {
-            "key": "csp_xBPQ_秒",
-            "name": "👿文才┃秒播稳定",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/文才.json"
-        },
+
 
                 {
             "key": "🔥码上看低端[JS]",
