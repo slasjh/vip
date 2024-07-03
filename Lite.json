@@ -49,7 +49,7 @@
    //  "jar": "./lib/fix1170.jar"},//👩‍❤️‍💋‍👨一起看影院
 //{"key":"csp_YQKAPP","name":"👌X影视仓","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top","jar":"./lib/fix1170.jar"},//👩‍👦一起看电视
  
- //{"key":"csp_xBPQ_文才-秒","name":"👿云播①","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/lib/文才.json"},
+
            {
             "key": "🔥码上看大师兄",
             "name": "🦍云播①",
@@ -129,8 +129,7 @@
             "filterable": 1,
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/leyu.js"
         },
-    // { "key": "csp_xBPQ_秒", "name": "👿云播⑥", "type": 3, "api": "csp_XBPQ","searchable": 1,
- "quickSearch": 1,  "filterable": 1, "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/文才.json" },
+    // { "key": "csp_xBPQ_秒", "name": "👿云播⑥", "type": 3, "api": "csp_XBPQ","searchable": 1,"quickSearch": 1,  "filterable": 1, "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/文才.json" },
 
               {
             "key": "🔥看18哈",
