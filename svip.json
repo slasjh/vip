@@ -277,7 +277,7 @@
  
         {
             "key": "jszy",
-            "name": "🚄极速┃秒播",
+            "name": "🚄极速资源┃秒播",
             "type": 1,
             "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8",
             "searchable": 1,
@@ -338,7 +338,7 @@
 
          {
             "key": "csp_XYQHiker_A8",
-            "name": "A8影视(XYQH)┃多线",
+            "name": "A8XY┃多线",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -349,7 +349,7 @@
         },
               {
             "key": "河马",
-            "name": "🔥河马影视┃秒播",
+            "name": "🔥河马┃秒播",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {"搜索url": "http://www.hemayes.com/sou/{wd}----------{pg}---.html",
@@ -357,18 +357,18 @@
                 "分类": "电影$1#连续剧$2#动漫$3#综艺$4"
             }
         },
-         {"key":"神仙影视","name":"🇹┃神仙影视┃秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/神仙影视.json"},
-      {"key":"剧圈圈","name":"🇹┃剧圈影视┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/剧圈圈.json"},
-      {"key":"西屋影视","name":"🇹┃西屋影视┃秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/西屋影视.json"},
-      {"key":"非凡资源","name":"🇹┃非凡影视┃秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/ffzy.json"},
+         {"key":"神仙影视","name":"🇹神仙┃秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/神仙影视.json"},
+      {"key":"剧圈圈","name":"🇹剧圈┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/剧圈圈.json"},
+      {"key":"西屋影视","name":"🇹西屋┃秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/西屋影视.json"},
+      {"key":"非凡资源","name":"🇹非凡┃秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/ffzy.json"},
 
-{"key":"茶狐杯","name":"🇹┃茶杯狐源┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/茶狐杯.json"},
+{"key":"茶狐杯","name":"🇹茶杯狐┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/茶狐杯.json"},
 
 
-{"key":"348影视","name":"🇹┃三四八源┃秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/348.json"},
+{"key":"348影视","name":"🇹三四八┃秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/348.json"},
 
-{"key":"csp_五五","name":"🇹┃五五影视┃秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/55.json"},
-{"key":"美柏","name":"🇹┃美柏影视┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/美柏.json"},
+{"key":"csp_五五","name":"🇹五五┃秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/55.json"},
+{"key":"美柏","name":"🇹美柏┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/美柏.json"},
 
 
 
