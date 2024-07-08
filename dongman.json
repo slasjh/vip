@@ -28,6 +28,20 @@
                 "动漫片"
             ]
         },
+        {
+            "key": "🔥码上看大师兄",
+            "name": "🦍师兄js┃秒播",
+            "type": 3,
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/merge.min.js",
+            "searchable": 1,
+            "playerType": 2,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/dm/dsx.js"
+        },
+                     
+
+
           {"key": "火狐资源", "name": "🔥火狐|稳定", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "categories": ["动画片", "中国动漫", "日本动漫", "欧美动漫"]}, 
 
                {"key": "csp_优质","name": "🔥优质|稳定","type": 1,"api": "https://api.1080zyku.com/inc/apijson.php?ac=list ","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": ["动画片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
@@ -97,6 +111,46 @@
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/js/lib/drpy2.min.js",
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/dm/%E5%8E%82%E9%95%BF%E5%8A%A8%E6%BC%AB.js"
         },
+  {
+            "key": "dr_白白",
+            "name": "👩‍🦳白白JS┃秒播",
+            "type": 3,
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/merge.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/dm/素白白.js"
+        },
+         {
+    "key": "csp_XBPQ_可可",
+    "name": "🉑可可┃多线",
+     "type": 3,
+      "api": "csp_XBPQ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+      "ext": { "请求头": "User-Agent$MOBILE_UA","分类url": "https://www.keke2.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
+ "分类": "动漫$3",
+ 			"主页url": "https://www.keke2.app",
+"图片":"data-original=\"&&\"[替换:/vod1>>https://vres.miximixi.me/vod1]" , 
+"搜索url": "https://www.keke2.app/search?k={wd}" }
+},
+
+{
+    "key": "csp_XBPQ_ncat",
+    "name": "🐱飞猫┃多线",
+     "type": 3,
+      "api": "csp_XBPQ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+      "ext": { "请求头": "User-Agent$MOBILE_UA","分类url": "https://www.ncat3.com:51111/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
+ "分类": "动漫$3",
+ 			"主页url": "https://www.ncat3.com:51111",
+"图片":"data-original=\"&&\"[替换:/vod1>>https://vres.miximixi.me/vod1]" , 
+"搜索url": "https://www.ncat3.com:51111/search?k={wd}" }
+},
+
 
 
          
