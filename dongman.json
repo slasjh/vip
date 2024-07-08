@@ -195,6 +195,22 @@
                 "欧美动漫"
             ]
         },
+        {"key": "XBPQ_麻衣影院","name":"🌙麻衣┃多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+			"ext": {"分类url":"https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"动漫$id-c"}
+		},
+      {
+            "key": "河马",
+            "name": "🇹河马┃秒播",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {"搜索url": "http://www.hemayes.com/sou/{wd}----------{pg}---.html",
+                "分类url": "http://www.hemayes.com/tags/{cateId}-{area}-------{catePg}---{year}.html",
+                "分类": "动漫$3"
+            }
+        },
+
+
+
 
 
 
