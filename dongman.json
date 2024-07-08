@@ -15,10 +15,10 @@
   ],
 
   "sites": [
-   {"key": "dr_看动漫", "name": "🔥X开源精粹|官方", "type": 3, "api": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/哔哩影视.js"} ,
+   {"key": "dr_看动漫", "name": "🔥X开源精粹┃官方", "type": 3, "api": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/哔哩影视.js"} ,
  {
             "key": "cjzy_360资源",
-            "name": "🔥X影视仓|秒播",
+            "name": "🔥X影视仓┃秒播",
             "type": 1,
             "api": "https://360zy.com/api.php/provide/vod",
             "playUrl": "",
@@ -42,10 +42,10 @@
                      
 
 
-          {"key": "火狐资源", "name": "🔥火狐|稳定", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "categories": ["动画片", "中国动漫", "日本动漫", "欧美动漫"]}, 
+          {"key": "火狐资源", "name": "🔥火狐┃稳定", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "categories": ["动画片", "中国动漫", "日本动漫", "欧美动漫"]}, 
 
-               {"key": "csp_优质","name": "🔥优质|稳定","type": 1,"api": "https://api.1080zyku.com/inc/apijson.php?ac=list ","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": ["动画片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
-               { "key": "速博资源","name": "🔥速播|接口","type": 1,"api": "https://subocaiji.com/api.php/provide/vod/","playUrl": "", "searchable": 1,"quickSearch": 1,"categories": ["动漫电影","动漫","中国动漫","日本动漫","欧美动漫","港台动漫"]},
+               {"key": "csp_优质","name": "🔥优质┃稳定","type": 1,"api": "https://api.1080zyku.com/inc/apijson.php?ac=list ","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": ["动画片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
+               { "key": "速博资源","name": "🔥速播┃接口","type": 1,"api": "https://subocaiji.com/api.php/provide/vod/","playUrl": "", "searchable": 1,"quickSearch": 1,"categories": ["动漫电影","动漫","中国动漫","日本动漫","欧美动漫","港台动漫"]},
 
 
 
@@ -54,7 +54,7 @@
 
     
     {"key": "csp_Dm84_3",
-     "name": "🤖巴士|独家",
+     "name": "🤖巴士┃独家",
 
             "type": 3,
 
@@ -69,10 +69,10 @@
       "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/dm/Dm84.json"
     }, 
 
-{"key":"去看吧","name":"💨看吧|独家","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/dm/去看吧.json"},
+{"key":"去看吧","name":"💨看吧┃独家","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/dm/去看吧.json"},
  {"key": "动漫直链",
 
-    "name": "💢直链|独家",
+    "name": "💢直链┃独家",
 
             "type": 3,
 
@@ -90,10 +90,10 @@
 
 
  
- {"key": "csp_XYQHiker_在线之家","name":"🏠在线|美漫","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/dm/在线之家动漫.json ","jar":"./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649"},
+ {"key": "csp_XYQHiker_在线之家","name":"🏠在线┃美漫","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/dm/在线之家动漫.json ","jar":"./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649"},
         {
       "key": "csp_XYQHiker_影视工场",
-      "name": "🏭工场|老站",
+      "name": "🏭工场┃老站",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -102,10 +102,10 @@
       "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/dm/影视工场动漫.json",
       "jar":"./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649"
     }, 
-    {"key":"天龙高清","name":"🐉天龙|高清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"发布地址":"http://113276.xyz","数组":"<li><a&&BR>分类","图片":"src=\"&&\"","副标题":"BR>状态：&&<","简介":"</font></br>&&</div>","线路数组":"<i class=\"iconfont\"&&/font","线路标题":"</i>&&<","播放数组":"<div class=\"list playlist&&</div","播放链接":"http://www.82mao.com/+href=\"javascript:OpenWindow3(\'/&&\',window)\"","跳转播放链接":"http://cdn.tl86dyw.site/cs1/?id=+var player_*url\":\"&&\"","搜索url":"http://www.82mao.com/Search/{wd}----------{pg}---.html","分类url":"http://www.82mao.com/List/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"动漫频道$48#动画片$7#国产动漫$29#日韩动漫$30#欧美动漫$31#港台动漫$32#海外动漫$33"}},
+    {"key":"天龙高清","name":"🐉天龙┃高清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"发布地址":"http://113276.xyz","数组":"<li><a&&BR>分类","图片":"src=\"&&\"","副标题":"BR>状态：&&<","简介":"</font></br>&&</div>","线路数组":"<i class=\"iconfont\"&&/font","线路标题":"</i>&&<","播放数组":"<div class=\"list playlist&&</div","播放链接":"http://www.82mao.com/+href=\"javascript:OpenWindow3(\'/&&\',window)\"","跳转播放链接":"http://cdn.tl86dyw.site/cs1/?id=+var player_*url\":\"&&\"","搜索url":"http://www.82mao.com/Search/{wd}----------{pg}---.html","分类url":"http://www.82mao.com/List/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"动漫频道$48#动画片$7#国产动漫$29#日韩动漫$30#欧美动漫$31#港台动漫$32#海外动漫$33"}},
           {
             "key": "👓猫-🏭┃厂长",
-            "name": "👓厂长|高清",
+            "name": "👓厂长┃高清",
             "type": 3,
             "playerType": "2",
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/js/lib/drpy2.min.js",
@@ -113,7 +113,7 @@
         },
   {
             "key": "dr_白白",
-            "name": "👩‍🦳白白JS┃秒播",
+            "name": "👩‍🦳白白js┃秒播",
             "type": 3,
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/merge.min.js",
             "searchable": 1,
@@ -181,7 +181,7 @@
         },
                 {
             "key": "jszy",
-            "name": "🚄极速资源┃秒播",
+            "name": "🚄极速┃接口",
             "type": 1,
             "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8",
             "searchable": 1,
