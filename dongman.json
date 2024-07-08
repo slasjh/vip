@@ -130,7 +130,7 @@
     "quickSearch": 1,
     "filterable": 1,
       "ext": { "请求头": "User-Agent$MOBILE_UA","分类url": "https://www.keke2.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
- "分类": "动漫$3",
+ "分类": "X影视动漫$3",
  			"主页url": "https://www.keke2.app",
 "图片":"data-original=\"&&\"[替换:/vod1>>https://vres.miximixi.me/vod1]" , 
 "搜索url": "https://www.keke2.app/search?k={wd}" }
@@ -145,11 +145,58 @@
     "quickSearch": 1,
     "filterable": 1,
       "ext": { "请求头": "User-Agent$MOBILE_UA","分类url": "https://www.ncat3.com:51111/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
- "分类": "动漫$3",
+ "分类": "X影视动漫$3",
  			"主页url": "https://www.ncat3.com:51111",
 "图片":"data-original=\"&&\"[替换:/vod1>>https://vres.miximixi.me/vod1]" , 
 "搜索url": "https://www.ncat3.com:51111/search?k={wd}" }
 },
+        {
+            "key": "极客",
+            "name": "🐻极客┃多线",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "嗅探词": ".m3u8",
+                "分类url": "https://www.jkdy.cc/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
+                "分类": "X影视动漫$4",
+                "搜索模式": "0"
+            }
+        },
+
+        {
+            "key": "555一（APP）",
+            "name": "🀝555┃多线",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "ext": "https://fivezn.com/api.php/app/", "categories": [
+                "动漫"]
+        },
+         {
+            "key": "大米一（APP）",
+            "name": "🍚大米┃多线",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "ext": "https://damicin.com/api.php/app/", "categories": [
+                "动漫"]
+        },
+                {
+            "key": "jszy",
+            "name": "🚄极速资源┃秒播",
+            "type": 1,
+            "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "动画片",
+                "中国动漫",
+                "日本动漫",
+                "欧美动漫"
+            ]
+        },
+
+
 
 
 
