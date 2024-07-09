@@ -20,7 +20,7 @@
    {"key":"豆瓣","name":"🔥豆瓣┃榜单热播","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":1},
    {
             "key": "cjzy_360资源",
-            "name": "🧭360资源┃秒播稳定",
+            "name": "🧭360┃秒播稳定",
             "type": 1,
             "api": "https://360zy.com/api.php/provide/vod",
             "playUrl": "",
@@ -113,24 +113,7 @@
         },
         {"key":"🚀立波|JAR","name":"🚀立波XB┃秒播蓝光","type":3,"api":"csp_XBPQ","playerType":"2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/bestpvp/tm/main/source/nightly/sites/码上/lb.json"},
 
-        {"key":"奈非naifei.art5",
-     "name":"🛩奈非XB┃多线",
-     "type":3,"api":"csp_XBPQ",
-     "searchable":1,"quickSearch":1,"filterable":1,
-      "ext":{"分类url": "https://www.naifei.io/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html", "线路数组": "data-dropdown-value=&&</div>[不包含:UK线路#iK线路#TK线路#WJ线路]","线路标题": "<span>&&</small>[排序:LS线路>FM线路>BD线路>GQ线路>SO线路>BF线路]",
-               
-      "分类": "电影$dy#剧集$juji#动漫$dongman#综艺$zongyi"}},
-             {
-            "key": "dr_网飞",
-            "name": "🛩奈飞js┃多线",
-            "type": 3,
-            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/merge.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/%E7%BD%91%E9%A3%9E.TV2.js"
-        },
- 
+       
       {
             "key": "csp_XBPQ_kan",
             "name": "🎦爱看┃多线",
@@ -194,13 +177,33 @@
         },
         
 
-           {"key": "火狐资源", "name": "🔥火狐┃稳定接口", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "categories": ["内地剧", "香港剧", "欧美剧", "韩剧", "日剧", "马泰剧", "台湾剧", "动画片", "中国动漫", "日本动漫", "欧美动漫",  "战争片", "动作片", "科幻片", "纪录片", "爱情片", "喜剧片", "灾难片", "悬疑片",  "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺"]}, 
+           {"key": "火狐资源", "name": "🔥火狐┃稳定接口", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list", "searchable": 0, "quickSearch": 0, "categories": ["内地剧", "香港剧", "欧美剧", "韩剧", "日剧", "马泰剧", "台湾剧", "动画片", "中国动漫", "日本动漫", "欧美动漫",  "战争片", "动作片", "科幻片", "纪录片", "爱情片", "喜剧片", "灾难片", "悬疑片",  "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺"]}, 
 
                {"key": "csp_优质","name": "🔥优质┃稳定接口","type": 1,"api": "https://api.1080zyku.com/inc/apijson.php?ac=list ","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": ["动作片","喜剧片","科幻片","奇幻片","恐怖片","灾难片","悬疑片","爱情片","战争片","纪录片","动画电影","大陆剧","欧美剧","港澳剧","韩剧","泰剧","台湾剧","日剧","海外剧","动画片","动漫","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺","搞笑","音乐"]},
                   
     {"key":"🔥码上看RARBT","name":"🔥RARBT┃多线","type":3,"api":"csp_Rarbt","searchable":1,"quickSearch":1,"filterable":1     },
-
-            
+{"key":"剧圈圈","name":"🇹剧圈┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/剧圈圈.json"},
+   {
+            "key": "csp_XYQHiker_A8",
+            "name": "A8XY┃多线",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/A8影视.json",
+            "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
+        },
+              {
+            "key": "河马",
+            "name": "🔥河马┃秒播",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {"搜索url": "http://www.hemayes.com/sou/{wd}----------{pg}---.html",
+                "分类url": "http://www.hemayes.com/tags/{cateId}-{area}-------{catePg}---{year}.html",
+                "分类": "电影$1#连续剧$2#动漫$3#综艺$4"
+            }
+        },          
 
  {
       "key": "ikanbot3",
@@ -336,29 +339,9 @@
 
         },
 
-         {
-            "key": "csp_XYQHiker_A8",
-            "name": "A8XY┃多线",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/A8影视.json",
-            "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
-        },
-              {
-            "key": "河马",
-            "name": "🔥河马┃秒播",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {"搜索url": "http://www.hemayes.com/sou/{wd}----------{pg}---.html",
-                "分类url": "http://www.hemayes.com/tags/{cateId}-{area}-------{catePg}---{year}.html",
-                "分类": "电影$1#连续剧$2#动漫$3#综艺$4"
-            }
-        },
+        
          {"key":"神仙影视","name":"🇹神仙┃秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/神仙影视.json"},
-      {"key":"剧圈圈","name":"🇹剧圈┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/剧圈圈.json"},
+      
       {"key":"西屋影视","name":"🇹西屋┃秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/西屋影视.json"},
       {"key":"非凡资源","name":"🇹非凡┃秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/ffzy.json"},
 
@@ -370,7 +353,24 @@
 {"key":"csp_五五","name":"🇹五五┃秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/55.json"},
 {"key":"美柏","name":"🇹美柏┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/美柏.json"},
 
-
+ {"key":"奈非naifei.art5",
+     "name":"🛩奈非XB┃多线",
+     "type":3,"api":"csp_XBPQ",
+     "searchable":1,"quickSearch":1,"filterable":1,
+      "ext":{"分类url": "https://www.naifei.io/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html", "线路数组": "data-dropdown-value=&&</div>[不包含:UK线路#iK线路#TK线路#WJ线路]","线路标题": "<span>&&</small>[排序:FM线路>LS线路>BD线路>GQ线路>SO线路>BF线路]",
+               
+      "分类": "电影$dy#剧集$juji#动漫$dongman#综艺$zongyi"}},
+             {
+            "key": "dr_网飞",
+            "name": "🛩奈飞js┃多线",
+            "type": 3,
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/merge.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/%E7%BD%91%E9%A3%9E.TV2.js"
+        },
+ 
 
 
 
