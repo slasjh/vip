@@ -7,7 +7,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/live_stable纪录.txt ",
+      "url": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/live_stable纪录.txt",
       "playerType": 1,
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -36,7 +36,7 @@
             "categories": [ "记录片" ]
         },   
   
-        
+         {"key":"📺电视直播|JAR","name":"📺纪录直播","type":3,"api":"csp_Live2Vod","searchable":0,"changeable":0,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/live/emote_live纪录.json"},   
 
       
 
