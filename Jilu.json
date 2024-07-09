@@ -18,32 +18,31 @@
   "sites": [
 
          {
-            "key": "哔哩哔哩",
-            "name": "🔥X开源精粹",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "jar": "./YSC.jar;md5;abbb96e6409112492430dd6521d66df0",
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/Bili-纪录.json"
-        },
+
         {  "key": "cjzy_360资源",
-            "name": "🔥X影视仓",
+            "name": "🔥X开源精粹🔥X影视仓",
             "type": 1,
             "api": "https://360zy.com/api.php/provide/vod",
-            "playUrl": "",
-            "categories": [ "记录片" ]
+            "playUrl": ""
         },   
+              {"key": "索尼资源", "name": "🚄索尼", "type": 1, "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/", "categories": ["纪录片"], "searchable": 0, "quickSearch": 0},
+
+
+{ "key": "暴風",
+   "name": "🌀暴風",
+  "type": 1,
+     "api": "https://bfzyapi.com/api.php/provide/vod",
+    "searchable": 0,
+     "changeable": 0,"categories": ["纪录片"] },
   
-         {"key":"📺电视直播|JAR","name":"📺纪录直播","type":3,"api":"csp_Live2Vod","searchable":0,"changeable":0,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/live/emote_live纪录.json"},   
+         {"key":"📺电视直播|JAR","name":"📺纪录直播","type":3,"api":"csp_Live2Vod","searchable":0,"changeable":0,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/live/remote_live纪录.json"},   
 
       
 
-               {"key": "csp_优质","name": "🔥优质","type": 1,"api": "https://api.1080zyku.com/inc/apijson.php?ac=list ","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": ["纪录片"]},
+               {"key": "csp_优质","name": "🔥优质","type": 1,"api": "https://api.1080zyku.com/inc/apijson.php?ac=list ","searchable": 1,"quickSearch": 0,"filterable": 1},
                { "key": "速博资源","name": "🔥速播","type": 1,"api": "https://subocaiji.com/api.php/provide/vod/","playUrl": "", "searchable": 1,"quickSearch": 1,"categories": ["纪录片"]},
 
- {"key": "火狐资源", "name": "🔥X影视仓", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list", "searchable": 0, "quickSearch": 0, "categories": ["纪录片"]}, 
+ {"key": "火狐资源", "name": "🔥火狐", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list", "searchable": 0, "quickSearch": 0}, 
 
  
 
@@ -58,17 +57,6 @@
             "ext": "{\"主演\":\"主演：&&</div>\",\"简介\":\"<p>&&<p>\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\":\"class=\\\"module-tab-itemtab-item&&</div>\",\"线路标题\":\"<span>&&</small>[不包含:夸克4K]\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"纪录片$63\",\"分类url\":\"https://www.3ayy.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}"},
 
 
-               {
-            "key": "csp_XYQBiu_TVB云播",
-            "name": "👓TVB云播",
-            "type": 3,
-            "api": "csp_XYQBiu",
-            "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQBiu/TVB云播.json"  
-           },
          
 
 
@@ -81,7 +69,7 @@
     "quickSearch": 1,
     "filterable": 1,
       "ext": { "请求头": "User-Agent$MOBILE_UA","分类url": "https://www.keke2.app/show/{cateId}-纪录-{area}-{lang}-{year}-{by}-{catePg}.html",
- "分类": "综艺纪录$4",
+ "分类": "纪录$4",
  			"主页url": "https://www.keke2.app",
 "图片":"data-original=\"&&\"[替换:/vod1>>https://vres.miximixi.me/vod1]" , 
 "搜索url": "https://www.keke2.app/search?k={wd}" }
@@ -115,19 +103,6 @@
       "分类": "纪录$38"}},
 
  
-
-
-
-
-      {"key": "索尼资源", "name": "🚄索尼", "type": 1, "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/", "categories": ["纪录片"], "searchable": 0, "quickSearch": 0},
-     {"key":"csp_xml_新浪资源","name":"🐝新浪","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","playUrl":"","searchable":0,"quickSearch":0,"categories": ["纪录片"]},
-
-{ "key": "暴風",
-   "name": "🌀暴風",
-  "type": 1,
-     "api": "https://bfzyapi.com/api.php/provide/vod",
-    "searchable": 0,
-     "changeable": 0,"categories": ["纪录片"] },
 
 
          {
