@@ -3,14 +3,14 @@
    {"name":"💥X开源精粹","url":"https://gitlab.com/mfkdy/vip/-/raw/main/Lite.json"},
    {"name":"💥X影视仓","url":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/slasjh/vip/main/Lite.json"},
 
-{"name":"🔘菜妮丝","url":"https://tv.xn--yhqu5zs87a.top"}, 
-{"name":"💝恋影","url":"https://www.lianyingtv.com/fast/fast"},
-{"name":"📿神器","url":"https://神器每日推送.tk/pz.json"},
- {"name":"🍏青苹果","url":"https://s2.pub/xpg"},
- {"name":"📚拾光","url":"https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip/main/vip4k.json"},
+{"name":"🔘万达","url":"http://sinopacifichk.com/box/56.txt"}, 
+{"name":"💝宝盒","url":"https://raw.gitmirror.com/guot55/YGBH/main/ygbox.json"},
+{"name":"📿小马","url":"https://szyyds.cn/tv/x.json"},
+ {"name":"🍏飘零","url":"https://100km.top"},
+ {"name":"📚影探","url":"http://www.lyyytv.cn/yt/yt.json"},
 
-{"name":"☃️D佬","url":"https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8"},
-{"name":"🚒八宝周","url":"http://jin.锦哥哥.love"},
-{"name":"🔘动漫城","url":"https://www.yingm.cc/dm/dm.json"}
+{"name":"☃️摸鱼","url":"https://我不是.摸鱼儿.top"},
+{"name":"🚒拾光","url":"https://gitee.com/xmbjmjk/omg/raw/master/omg.json"},
+{"name":"🔘爱tv","url":"http://giao.xn--kcr29o437a.top"}
 
 ]}
