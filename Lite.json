@@ -196,7 +196,7 @@
  
 { "key": "电影港4k磁力",    "name": "💥iMAX①",      "type": 3,    "api": "csp_XYQHiker",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 1,    "ext": "./lib/电影港磁力.json",      "jar":"./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649" },
 //{ "key": "csp_xpath_yinfans", 			"name": "💥iMAX②", 			"type": 3, 			
-//"api": "csp_XPath", 			"searchable": 1, 			"quickSearch": 1, 			"filterable": 1, 	"ext": "./lib/音范丝.json"}, 
+//"api": "csp_XPath", 			"searchable": 1, 			"quickSearch": 1, 		"filterable": 1, 	"ext": "./lib/音范丝.json"}, 
                   {
 
       "key": "csp_New6v",
@@ -247,11 +247,6 @@
 // {"key":"csp_视觉","name":"👓美剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 //"ext":"./lib/xinshijue.json","jar": "./lib/小米ab.jar"},
 
-   // {"key": "爱看影视-码上👓猫-❤┃", "name": "🏠美剧①", "type": 3, "playerType": "2", "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js", "ext": "https://d.kstore.space/download/6296/js/爱看.js"},
-
-
-
-   //       {"key": "csp_XYQHiker_好戏网","name":"💢接口②","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/好戏网.json"},
     //       {"key": "jar_码上Auete", "name": "🏝接口③", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/sites/码上/Auete.js"},
      //            {"key": "dr_码上时光", "name": "💢接口④", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/sites/码上/时光影视.js"}, 
 
@@ -302,8 +297,8 @@
             "name": "🀝接口⑥",
             "type": 3,
             "api": "csp_AppYsV2",
-            "ext": "https://55vid.shop/api.php/app/", "categories": [
-                "电影","连续剧","动漫","综艺"]
+            "ext": "https://5scrn.com/api.php/app/", "categories": [
+                "电影","连续剧","动漫","综艺","Netflix"]
         },
 
  // {"key": "csp_XYQHiker_555影视","name":"🌙接口⑥","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1, "jar": "./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649","ext":"https://gitlab.com/mfkdy/cy/-/raw/main/lib/555影视.json"},
@@ -329,14 +324,27 @@
 
     },
 {"key":"天龙高清","name":"🐉接口⑨","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"发布地址":"http://113276.xyz","数组":"<li><a&&BR>分类","图片":"src=\"&&\"","副标题":"BR>状态：&&<","简介":"</font></br>&&</div>","线路数组":"<i class=\"iconfont\"&&/font","线路标题":"</i>&&<","播放数组":"<div class=\"list playlist&&</div","播放链接":"http://www.82mao.com/+href=\"javascript:OpenWindow3(\'/&&\',window)\"","跳转播放链接":"http://cdn.tl86dyw.site/cs1/?id=+var player_*url\":\"&&\"","搜索url":"http://www.82mao.com/Search/{wd}----------{pg}---.html","分类url":"http://www.82mao.com/List/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$53#电影频道$17#电视剧场$18#综艺小品$20#动漫频道$48#经典系列$16#动作片$1#喜剧片$2#爱情片$3#科幻片$4#恐怖片$5#剧情片$6#战争片$13#纪录片$14#微电影$19#国产剧$9#香港剧$10#台湾剧$21#韩国剧$12#日本剧$22#欧美剧$11#泰国剧$23#海外剧$24#TVB专区$52#综艺片$8#内地综艺$25#港台综艺$26#日韩综艺$27#欧美综艺$28#动画片$7#国产动漫$29#日韩动漫$30#欧美动漫$31#港台动漫$32#海外动漫$33"}},
-          	{"key":"臭蛋蛋xb2",
-     "name":"🐣接口⑩",
-     "type":3,"api":"csp_XBPQ",
-     "searchable":1,"quickSearch":1,"filterable":1,
-      "ext":{"分类url": "https://cddys1.me/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
-      "分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},
 
- 
+                     {
+            "key": "csp_XYQHiker_A8",
+            "name": "🥌接口⑪",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/A8影视.json",
+            "jar":"./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649"
+        },
+
+          //	{"key":"臭蛋蛋xb2",
+    //   "name":"🐣接口⑩",
+    //   "type":3,"api":"csp_XBPQ",
+     // //   "searchable":1,"quickSearch":1,"filterable":1,
+    //    "ext":{"分类url": "https://cddys1.me/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
+    //    "分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},
+
+ {"key":"剧圈圈","name":"🇹接口⑫","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/剧圈圈.json"},
 
         {
             "key": "女团热舞",
