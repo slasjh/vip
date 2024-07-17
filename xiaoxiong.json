@@ -1,0 +1,36 @@
+{
+ "sites": [
+
+            {
+              "searchable": 1,
+             "type": 1,
+             "name": "暴風",
+            "api": "https://bfzyapi.com/api.php/provide/vod/",
+            "key": "bfzyapi"},
+
+               {"searchable": 1,
+             "type": 1,
+             "name": "卫士",
+            "api": "https://360zy.com/api.php/provide/vod/",
+            "key": "360zy"},    
+
+        {
+           "searchable": 1,
+             "type": 1,
+             "name": "火狐",
+            "api": "https://hhzyapi.com/api.php/provide/vod/",
+            "key": "hhzyapi"
+         
+         
+        },
+                {
+           "searchable": 1,
+             "type": 1,
+             "name": "优质",
+            "api": "https://api.1080zyku.com/inc/apijson.php?ac=list",
+            "key": "1080zyku"
+          }
+    ],
+
+       "lives": []
+}
