@@ -212,6 +212,18 @@
         "ratio": 1.68
       }
     },
+            {
+            "key": "女团热舞",
+            "name": "💃女团热舞",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,  "jar":"./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649",
+
+            "ext": "./lib/nvtuanrewu.json"
+        },
+
          {
       "key": "X开源精粹-量子",
       "name": "关注公众号：X开源精粹",
