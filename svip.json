@@ -324,6 +324,14 @@
 
 {"key":"csp_五五","name":"🇹五五┃秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/55.json"},
 {"key":"美柏","name":"🇹美柏┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/美柏.json"},
+     {"key":"1212",
+     "name":"🔥APP影院🔥",
+     "type":3,"api":"csp_XBPQ",
+     "searchable":1,"quickSearch":1,"filterable":1,
+      "ext":{"分类url": "https://www.appmovie.vip/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
+      "分类": "电影$1#连续剧$2#综艺$3#动漫$4"}},
+      {"key":"🚀皮皮|JAR","name":"🚀皮皮|JAR","type":3,"api":"csp_XBPQ","playerType":"2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/nightly/sites/码上/pp.json"},
+{"key":"🚀虎虎|JAR","name":"🚀虎虎|JAR","type":3,"api":"csp_XBPQ","playerType":"2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/nightly/sites/码上/hh.json"},
 
  {"key":"奈非naifei.art5",
      "name":"🛩奈非XB┃多线",
