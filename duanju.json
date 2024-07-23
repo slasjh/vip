@@ -19,34 +19,19 @@
 
 
 
-   //     {"key":"🚌fan-上头短剧st2","name":"🔥X开源精粹","type":3,"api":"csp_Djuu","searchable":1,"quickSearch":1,"changeable":1,         "jar": "https://gitlab.com/mfkdy/cy/-/raw/main/fty.jar;md5;e85e180ec8caae0d38c78a021a2494e0"},
-  //  { "key": "hipy_js_上头", "name": "🔥X开源精粹",  "type": 3, "searchable": 1,"quickSearch": 0,"filterable": 1, "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js", "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/dj/短剧在线.js" },
-         { "key": "短剧tv-1",
-            "name": "🔥X开源精粹",
+           {"key": "火狐资源", "name": "🔥X开源精粹", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list", "searchable": 0, "quickSearch": 0, "categories": ["短剧"]}, 
+                     {
+            "key": "短剧吧",
+            "name": "🔥X影视仓",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
-                "搜索链接": "http://www.duanjutv.cc/vodsearch/{wd}----------{pg}---.html",
-                "线路标题": "<h3*>&&</h3>[排序:速播云>速播m3u8>光速m3u8]",
-                "线路数组": "\"more text-muted pull-right\">&&</ul>[不包含:备用#金鹰云]",
-                "播放数组": "\"more text-muted pull-right\">&&</ul>",
-                "播放链接": "http+://www.duanjutv.cc+href='&&'",
-                "分类": "X影视抖音短剧$20#快手短剧$21#视频号短剧$22#热播短剧$23",
-                "分类链接": "http://www.duanjutv.cc/vodtype/{cateId}-{catePg}.html;;m"
+                "分类": "X影视恋爱$lianai#反转$fanzhuan#悬疑$xuanyi#穿越$chuanyue#古装$guzhuang#都市$dushi",
+                "分类url": "https://duanju8.cc/type/{cateId}/page/{catePg}.html"
             }
         },
 
-                  {
-            "key": "XBPQ_葡萄🍇",
-            "name": "🔥X影视仓",
-            "type": 3,
-                        "api": "csp_XBPQ",
-            "ext": {
-                "数组": "class=\"stui-vodlist__box&&</li",
-                "分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",
-                "分类": "X影视微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"
-            }
-        },
+                 
          
                 // {"key": "XBPQ_无忧短剧","name": "🔥自营①", "type": 3, "api": "csp_XBPQ", "ext": { "分类": "X影视逆袭$1#甜宠$3#虐恋$5#穿越$7#重生$9#都市$11#现代言情$13#古装$15#古装言情$17#战神$19#神医$21#神豪$23#超能$25#萌宝$27#复仇$29#脑洞$31#赘婿$33#玄幻$35#热血$37#其他$39", "分类url": "http://5uduanju.com/vodshow/{cateId}--------{catePg}---.html" }},
          { "key": "短剧tv",
@@ -63,24 +48,25 @@
                 "分类链接": "http://www.duanjutv.cc/vodtype/{cateId}-{catePg}.html;;m"
             }
         },
-
-              {
-            "key": "短剧吧",
+         {
+            "key": "XBPQ_葡萄🍇",
             "name": "🔥自营②",
             "type": 3,
-            "api": "csp_XBPQ",
+                        "api": "csp_XBPQ",
             "ext": {
-                "分类": "X影视恋爱$lianai#反转$fanzhuan#悬疑$xuanyi#穿越$chuanyue#古装$guzhuang#都市$dushi",
-                "分类url": "https://duanju8.cc/type/{cateId}/page/{catePg}.html"
+                "数组": "class=\"stui-vodlist__box&&</li",
+                "分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",
+                "分类": "X影视微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"
             }
         },
+
  {"key":"短剧fan2","name":"🔥自营③","type":3,"api":"csp_Djuu","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://gitlab.com/mfkdy/cy/-/raw/main/jar/fan.txt;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26"},
  {"key":"短剧天堂","name":"🔥自营④","type":3,"api":"csp_XBPQ","ext":{"简介":"X影视祝您观影愉快","搜索url":"https://duanjutt.tv/vodsearch/{wd}-----------{pg}---.html","分类url":"https://duanjutt.tv/vodshow/{cateId}--------{catePg}---.html","免嗅": "0","嗅探词": ".mp4#.m3u8#.flv","分类":"逆袭$1#甜宠$2#虐恋$3#穿越$4#重生$5","分类数组":"col-lg-5 col-md-5 col-sm-5 col-xs-3\">&&</li>","分类ID":"/vodtype/&&.html"}},
  {"key":"短剧网","name":"🔥自营⑤","type":3,"api":"csp_XBPQ","ext":{"简介":"X影视祝您观影愉快","分类":"逆袭$逆袭#甜宠$甜宠#虐恋$虐恋#穿越$穿越#重生$重生","分类url":"http://2ju.cc/show/duanju/class/{cateId}/page/{catePg}.html"}}, 
 
 
 
-           {"key": "火狐资源", "name": "🚄官方①", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "categories": ["短剧"]}, 
+ 
                {"key": "csp_优质","name": "🚄官方②","type": 1,"api": "https://api.1080zyku.com/inc/apijson.php?ac=list ","searchable": 1,"quickSearch": 0,"filterable": 1, "categories": ["短剧大全"]},
                { "key": "速博资源","name": "🚄官方③","type": 1,"api": "https://subocaiji.com/api.php/provide/vod/","playUrl": "", "searchable": 1,"quickSearch": 1,"categories": ["短剧"]},
 
@@ -88,13 +74,13 @@
     {"key":"🔥码上看RARBT","name":"🚄官方④","type":3,"api":"csp_Rarbt","searchable":1,"quickSearch":1,"filterable":1     ,   "jar": "./custom_spider_20240420_2.tms;md5;bffed34f9f7ba3b644eba4f6df36bab0",    "categories": ["短剧"],     "ext": {"jxToken": "179d14c3b27b40cb5cee66d302af747c7400715169957" }},
     {"key":"rarbt1","name":"🚄官方⑤","type":3,"api":"csp_XBPQ","ext":{"简介":"X影视祝您观影愉快","线路数组":"\"module-tab-itemtab-item\"&&</div>","分类":"X影视短剧$duanju","分类url":"https://www.rarbt.fun/vod/show/id/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html"}},
 
-{"key":"新视觉影院","name":"🚄官方⑥","type":3,"api":"csp_XBPQ","ext":{"简介":"X影视祝您观影愉快","二次截取":"\"module-items\"&&\"module-footer\"+\"module-item\"","数组":"\"module-item-cover\"&&\"module-item\"","副标题":"module-item-text\">&&</div>","播放数组":"\"scroll-content\"&&</div>","线路数组":"data-dropdown-value=&&</div>[不包含:夸克]","分类":"X影视短剧$59","分类url":"https://www.6080yy4.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"}},
 
-{"key":"毒舌影视","name":"🚄官方⑦","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"module-item&&</a>","副标题":"v-item-bottom\">&&</div>","图片":"https+://vres.a357899.cn+data-original=\"&&\"","导演":"导演:&&","演员":"演员:</div>&&</div>[替换:/>>空#更新>>更新]","影片年代":"首映:</div>&&</div>","简介":"class=\"detail-desc\">&&</p>","线路数组":"source-item\">&&</a>[排序:蓝光>超清]","线路标题":"<spanclass=\"source-item-label\">&&</span>+-+source-item-num\">&&</i>[替换:线路>>空]","搜索url":"https://www.dushe7.app/search?k={wd}&page={pg}","地区":"[替换:大陆>>中国大陆#香港>>中国香港#台湾>>中国台湾]","剧情":"[替换:伦理>>NETFLIX]","排序":"综合$1#最新$2#最热$3#评分$4","分类":"X影视短剧$6","分类url":"https://www.dushe7.app/show/{cateId}-{class}-{area}--{year}-{by}-{catePg}.html"}},
 
-{"key":"555zxdy","name":"🚄官方⑧","type":3,"api":"csp_XBPQ","ext":{"简介":"X影视祝您观影愉快","分类":"短剧$45","分类url":"https://www.555zxdy.com/vod/show/by/{by}/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"}},
+{"key":"毒舌影视","name":"🚄官方⑥","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"module-item&&</a>","副标题":"v-item-bottom\">&&</div>","图片":"https+://vres.a357899.cn+data-original=\"&&\"","导演":"导演:&&","演员":"演员:</div>&&</div>[替换:/>>空#更新>>更新]","影片年代":"首映:</div>&&</div>","简介":"class=\"detail-desc\">&&</p>","线路数组":"source-item\">&&</a>[排序:蓝光>超清]","线路标题":"<spanclass=\"source-item-label\">&&</span>+-+source-item-num\">&&</i>[替换:线路>>空]","搜索url":"https://www.dushe7.app/search?k={wd}&page={pg}","地区":"[替换:大陆>>中国大陆#香港>>中国香港#台湾>>中国台湾]","剧情":"[替换:伦理>>NETFLIX]","排序":"综合$1#最新$2#最热$3#评分$4","分类":"X影视短剧$6","分类url":"https://www.dushe7.app/show/{cateId}-{class}-{area}--{year}-{by}-{catePg}.html"}},
 
-{"key":"csp_XBPQ_vstv","name":"🚄官方⑨","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"X影视祝您观影愉快","分类url":"https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html","分类":"X影视短剧$5"}},
+{"key":"555zxdy","name":"🚄官方⑦","type":3,"api":"csp_XBPQ","ext":{"简介":"X影视祝您观影愉快","分类":"短剧$45","分类url":"https://www.555zxdy.com/vod/show/by/{by}/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"}},
+
+{"key":"csp_XBPQ_vstv","name":"🚄官方⑧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"X影视祝您观影愉快","分类url":"https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html","分类":"X影视短剧$5"}},
 
  
       {
