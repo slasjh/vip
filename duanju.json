@@ -63,7 +63,8 @@
  {"key":"短剧fan2","name":"🔥自营③","type":3,"api":"csp_Djuu","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://gitlab.com/mfkdy/cy/-/raw/main/jar/fan.txt;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26"},
  {"key":"短剧天堂","name":"🔥自营④","type":3,"api":"csp_XBPQ","ext":{"简介":"X影视祝您观影愉快","搜索url":"https://duanjutt.tv/vodsearch/{wd}-----------{pg}---.html","分类url":"https://duanjutt.tv/vodshow/{cateId}--------{catePg}---.html","免嗅": "0","嗅探词": ".mp4#.m3u8#.flv","分类":"逆袭$1#甜宠$2#虐恋$3#穿越$4#重生$5","分类数组":"col-lg-5 col-md-5 col-sm-5 col-xs-3\">&&</li>","分类ID":"/vodtype/&&.html"}},
  {"key":"短剧网","name":"🔥自营⑤","type":3,"api":"csp_XBPQ","ext":{"简介":"X影视祝您观影愉快","分类":"逆袭$逆袭#甜宠$甜宠#虐恋$虐恋#穿越$穿越#重生$重生","分类url":"http://2ju.cc/show/duanju/class/{cateId}/page/{catePg}.html"}}, 
-
+ {"key":"csp_XBPQ_胖嘟嘟","name":"🔥自营⑥","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类":"全部$qb#言情$yq#古代$dg#都市$ds","分类url":"https://m.pangdo.com/{cateId}/list_{catePg}.html"}},
+{"key":"csp_XBPQ_VS短剧","name":"🔥自营⑦","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.ytshengde.com/sanyisw/{cateId}--hits------{catePg}---{year}.html","分类":"短剧$5"}},
 
 
  
