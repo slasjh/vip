@@ -18,6 +18,17 @@
   "sites": [
 
    {"key":"豆瓣","name":"🔥豆瓣┃榜单热播","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":1},
+   {"key":"神仙影视","name":"🍭神仙┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://ys.sxtv.top/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}},
+     {
+            "key": "河马",
+            "name": "🔥河马┃秒播",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {"搜索url": "http://www.hemayes.com/sou/{wd}----------{pg}---.html",
+                "分类url": "http://www.hemayes.com/tags/{cateId}-{area}-------{catePg}---{year}.html",
+                "分类": "电影$1#连续剧$2#动漫$3#综艺$4"
+            }
+        },          
    {
             "key": "cjzy_360资源",
             "name": "🧭360┃秒播稳定",
@@ -174,16 +185,7 @@
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/A8影视.json",
             "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
         },
-              {
-            "key": "河马",
-            "name": "🔥河马┃秒播",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {"搜索url": "http://www.hemayes.com/sou/{wd}----------{pg}---.html",
-                "分类url": "http://www.hemayes.com/tags/{cateId}-{area}-------{catePg}---{year}.html",
-                "分类": "电影$1#连续剧$2#动漫$3#综艺$4"
-            }
-        },          
+            
 
  {
       "key": "ikanbot3",
