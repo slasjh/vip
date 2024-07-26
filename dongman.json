@@ -165,14 +165,7 @@
             "ext": "https://5scrn.com/api.php/app/", "categories": [
                 "动漫"]
         },
-         {
-            "key": "大米一（APP）",
-            "name": "🍚大米┃多线",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "ext": "https://damicin.com/api.php/app/", "categories": [
-                "动漫"]
-        },
+        
                 {
             "key": "jszy",
             "name": "🚄极速┃接口",
