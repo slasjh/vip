@@ -28,33 +28,7 @@
                 "动漫片"
             ]
         },
-          {
-            "key": "河马",
-            "name": "🔥云播⑦",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-    "请求头": "手机",
-    "数组": "class=\"stui-vodlist__box\">&&</li>",
-    "图片": "data-original=\"&&\"",
-    "链接": "href=\"&&\"",
-    "标题": "title=\"&&\"",
-    "副标题": "",
-    "嗅探词": ".mp4#.m3u8#.flv",
-    "线路数组": "<span&&</h4>",
-    "线路标题": "⏰X开源精粹+pull-right1\">&&</span>",
-    "播放数组": "class=\"stui-content__playlist clearfix\">&&</ul>",
-    "播放列表": "<a&&/a>",
-    "播放标题": ">&&</a",
-    "搜索url": "http://www.hemayes.com/sou/-------------.html?wd={wd}",
-    "分类url": "http://www.hemayes.com/tags/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-    "分类数组": "<a&&</a",
-    "分类标题": "text-muted\">&&</a",
-    "分类ID": "href=\"/tags/&&-----------.html\""
-}
-        }, 
-
-               {"key":"csp_XBPQ_神仙","name":"🍭云播⑧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"站名":"神仙影视","作者":"天天开心","分类url":"https://ys.sxtv.top/index.php/vod/type/{area}/by/{by}/id/{cateId}/lang/{lang}/page/{catePg}.html[https://ys.sxtv.top/index.php/vod/type/id/{cateId}.html]","分类":"动漫","分类值":"4","简介":"<p>&&</p>","排序":"时间$time#人气$hits#评分$score","主页url":"https://ys.sxtv.top/"}},
+          
 
         {
             "key": "🔥码上看大师兄",
@@ -67,8 +41,11 @@
             "filterable": 1,
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/dm/dsx.js"
         },
-                     
 
+               {"key":"csp_XBPQ_神仙","name":"🍭神仙┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"站名":"神仙影视","作者":"天天开心","分类url":"https://ys.sxtv.top/index.php/vod/type/{area}/by/{by}/id/{cateId}/lang/{lang}/page/{catePg}.html[https://ys.sxtv.top/index.php/vod/type/id/{cateId}.html]","分类":"动漫","分类值":"4","简介":"<p>&&</p>","排序":"时间$time#人气$hits#评分$score","主页url":"https://ys.sxtv.top/"}},
+
+                        {"key":" 百姓 ","name":"🇹农民┃秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"⚠️特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >","分类url":"https://www.gymboreejn.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html[https://www.gymboreejn.com/vodtype/{cateId}.html]","分类":"动漫$4"}},
+         {"key": "凯奇追剧","name": "🇹凯奇┃秒播","type": 3,"ua": "okhttp/3.15","api": "csp_XBPQ","ext": {"简介":"+hl-content-text\">&&</span>","分类url": "https://www.kqyy.tv/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "动漫$dongman"}},
 
           {"key": "火狐资源", "name": "🔥火狐┃切片", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list", "searchable": 0, "quickSearch": 0, "categories": ["动画片", "中国动漫", "日本动漫", "欧美动漫"]}, 
 
@@ -207,8 +184,7 @@
 			"ext": {"分类url":"https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"动漫$id-c"}
 		},
     
-         {"key":" 百姓 ","name":"🇹农民┃秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"⚠️特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >","分类url":"https://www.gymboreejn.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html[https://www.gymboreejn.com/vodtype/{cateId}.html]","分类":"动漫$4"}},
-         {"key": "凯奇追剧","name": "🇹凯奇┃秒播","type": 3,"ua": "okhttp/3.15","api": "csp_XBPQ","ext": {"简介":"+hl-content-text\">&&</span>","分类url": "https://www.kqyy.tv/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "动漫$dongman"}},
+
 
 
 
