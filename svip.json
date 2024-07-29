@@ -222,6 +222,30 @@
                   
     {"key":"🔥码上看RARBT","name":"🔥RARBT┃多线","type":3,"api":"csp_Rarbt","searchable":1,"quickSearch":1,"filterable":1     },
 {"key":"剧圈圈","name":"🇹剧圈┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/剧圈圈.json"},
+    {
+      "key": "剧圈2",
+      "name": "💢剧圈┃秒播",
+      "type": 3,
+      "playerType": "1",
+      "changeable": 0,
+      "api": "csp_XBPQ",
+      "ext": {
+        "主页url": "https://www.jqqzx.cc/",
+        "请求头": "Referer$https://www.jqqzx.cc/#Cookie$filter_robot_cs=301#User-Agent$Mozilla/5.0(iPad;CPUOS10_3_1likeMacOSX)AppleWebKit/603.1.30(KHTML,likeGecko)Version/10.0Mobile/14E304Safari/602.1",
+        "副标题": "pic-texttext-right\">&&</b>",
+        "嗅探词": ".m3u8#.mp4#tos#video_mp4#v3-dy-o.zjcdn.com",
+        "搜索模式": "1",
+        "搜索url": "https://www.jqqzx.cc/type/id-.html?wd={wd}",
+        "影片类型": "<divclass=\"module-info-tag\">&&立即播放",
+        "导演": "导演：&&</div>",
+        "主演": "主演：&&</div>",
+        "简介": "introduction-content\">&&</span>",
+        "线路数组": "data-toggle=&&</li>",
+        "线路标题": "\"tab\">&&</a>[不包含:线路1#线路2#线路3#][替换:FY线路>>无广告有4K#KKJ线路>>无告1080P#LZ线路>>广告1#FF线路>>广告2#YZ线路>>广告3]",
+        "分类": "电影$dianying#剧集$dianshiju#综艺$zongyi#动漫$dongman#纪录片$jilupian",
+        "分类url": "https://www.jqqzx.cc/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html"
+      }
+    },
    {
             "key": "csp_XYQHiker_A8",
             "name": "A8XY┃多线",
@@ -243,19 +267,7 @@
       "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/ikanbot3.js"
     },
 
-    
-         {
-            "key": "极客",
-            "name": "🐻极客┃多线",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "嗅探词": ".m3u8",
-                "分类url": "https://www.jkdy.cc/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
-                "分类": "电影$1#剧集$2#动漫$4#综艺$4",
-                "搜索模式": "0"
-            }
-        },
+    {"key": "极客影视","name": "🐻极客┃多线","type": 3,"changeable": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "csp_XBPQ","ext": {"站名": "极客影视","主页url": "https://www.jkdy.cc/","搜索url": "https://www.jkdy.cc/vodsearch/{wd}----------{pg}---.html","播放数组": "class=\"hl-plays-list&&</ul>","播放标题": ">&&</a>","播放链接": "href=\"&&\"","播放列表": "<li&&</li>","分类url": "https://www.jkdy.cc/show/{cateId}-{area}-{by}------{catePg}---{year}.html;;d0","分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},
 
 
  
