@@ -30,15 +30,32 @@
         },
           {
             "key": "河马",
-            "name": "🇹河马┃秒播",
+            "name": "🔥云播⑦",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": {"搜索url": "http://www.hemayes.com/sou/{wd}----------{pg}---.html",
-                "分类url": "http://www.hemayes.com/tags/{cateId}-{area}-------{catePg}---{year}.html",
-                "分类": "动漫$3"
-            }
-        },
-         {"key":"神仙影视","name":"🍭神仙┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://ys.sxtv.top/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html","分类":"动漫$4"}},
+            "ext": {
+    "请求头": "手机",
+    "数组": "class=\"stui-vodlist__box\">&&</li>",
+    "图片": "data-original=\"&&\"",
+    "链接": "href=\"&&\"",
+    "标题": "title=\"&&\"",
+    "副标题": "",
+    "嗅探词": ".mp4#.m3u8#.flv",
+    "线路数组": "<span&&</h4>",
+    "线路标题": "⏰X开源精粹+pull-right1\">&&</span>",
+    "播放数组": "class=\"stui-content__playlist clearfix\">&&</ul>",
+    "播放列表": "<a&&/a>",
+    "播放标题": ">&&</a",
+    "搜索url": "http://www.hemayes.com/sou/-------------.html?wd={wd}",
+    "分类url": "http://www.hemayes.com/tags/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+    "分类数组": "<a&&</a",
+    "分类标题": "text-muted\">&&</a",
+    "分类ID": "href=\"/tags/&&-----------.html\""
+}
+        }, 
+
+               {"key":"csp_XBPQ_神仙","name":"🍭云播⑧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"站名":"神仙影视","作者":"天天开心","分类url":"https://ys.sxtv.top/index.php/vod/type/{area}/by/{by}/id/{cateId}/lang/{lang}/page/{catePg}.html[https://ys.sxtv.top/index.php/vod/type/id/{cateId}.html]","分类":"动漫","分类值":"4","简介":"<p>&&</p>","排序":"时间$time#人气$hits#评分$score","主页url":"https://ys.sxtv.top/"}},
+
         {
             "key": "🔥码上看大师兄",
             "name": "🦍师兄┃秒播",
@@ -53,10 +70,29 @@
                      
 
 
-          {"key": "火狐资源", "name": "🔥火狐┃稳定", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list", "searchable": 0, "quickSearch": 0, "categories": ["动画片", "中国动漫", "日本动漫", "欧美动漫"]}, 
+          {"key": "火狐资源", "name": "🔥火狐┃切片", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list", "searchable": 0, "quickSearch": 0, "categories": ["动画片", "中国动漫", "日本动漫", "欧美动漫"]}, 
 
-               {"key": "csp_优质","name": "🔥优质┃稳定","type": 1,"api": "https://api.1080zyku.com/inc/apijson.php?ac=list ","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": ["动画片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
-               { "key": "速博资源","name": "🔥速播┃稳定","type": 1,"api": "https://subocaiji.com/api.php/provide/vod/","playUrl": "", "searchable": 1,"quickSearch": 1,"categories": ["动漫电影","动漫","中国动漫","日本动漫","欧美动漫","港台动漫"]},
+               {"key": "csp_优质","name": "🔥优质┃切片","type": 1,"api": "https://api.1080zyku.com/inc/apijson.php?ac=list ","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": ["动画片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
+               { "key": "速博资源","name": "🔥速播┃切片","type": 1,"api": "https://subocaiji.com/api.php/provide/vod/","playUrl": "", "searchable": 1,"quickSearch": 1,"categories": ["动漫电影","动漫","中国动漫","日本动漫","欧美动漫","港台动漫"]},
+               {"key":"爱坤","name":"🔥爱坤┃切片","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod?","searchable":1,"changeable":1,"categories":["国产动漫","欧美动漫","日韩动漫"]},
+
+                       {
+            "key": "jszy",
+            "name": "🚄极速┃接口",
+            "type": 1,
+            "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "动画片",
+                "中国动漫",
+                "日本动漫",
+                "欧美动漫"
+            ]
+        },
+
 
 
 
@@ -99,10 +135,7 @@
 
         },
         {"key":"58动漫","name":"🛹68┃独家","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/58动漫.js"},
-{"key":"去看吧2","name":"🫣去看┃独家","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/去看吧.js"},
-{"key":"樱花动漫","name":"樱花┃独家","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"分类url:https://www.857yhdm.com/type/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:日本动漫$ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动漫$omeidongman"},
-{"key":"plipili","name":"PP┃独家","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"分类url:http://pilipiliw.top/index.php/vod/type/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:新番动漫$20#动漫剧场$22#大陆动漫$23#番组计划$21"},
-{"key":"MX动漫","name":"MX┃独家","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"分类url:http://www.mxdm9.com/type/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:日本动漫$riman#国产动漫$guoman#动漫电影$dmdianying#欧美动漫$oman"},
+
 
 
 
@@ -158,18 +191,7 @@
 "图片":"data-original=\"&&\"[替换:/vod1>>https://vres.miximixi.me/vod1]" , 
 "搜索url": "https://www.ncat3.com:51111/search?k={wd}" }
 },
-        {
-            "key": "极客",
-            "name": "🐻极客┃多线",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "嗅探词": ".m3u8",
-                "分类url": "https://www.jkdy.cc/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
-                "分类": "X影视动漫$4",
-                "搜索模式": "0"
-            }
-        },
+
 
         {
             "key": "555一（APP）",
@@ -180,22 +202,7 @@
                 "动漫"]
         },
         
-                {
-            "key": "jszy",
-            "name": "🚄极速┃接口",
-            "type": 1,
-            "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "动画片",
-                "中国动漫",
-                "日本动漫",
-                "欧美动漫"
-            ]
-        },
+
         {"key": "XBPQ_麻衣影院","name":"🌙麻衣┃多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 			"ext": {"分类url":"https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"动漫$id-c"}
 		},
