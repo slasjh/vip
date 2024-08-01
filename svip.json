@@ -449,6 +449,13 @@
 
     {"key":"drjs_神马电影[搜]","name":"👺神马┃仅搜索","type":3,"api":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/n3rddd/N3RD/c4363f2732964f634116f8a31fc24eee7032f068/JN/dr_py/libs/drpy2.min.js","ext":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/n3rddd/N3RD/c4363f2732964f634116f8a31fc24eee7032f068/JN/dr_py/js/神马电影[搜].js"},
 
+
+    {"key":"FreeOK","name":"🚌肥猫-️️👌┃Fre┃影视","type":3,"api":"csp_FreeOK","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://like.xn--z7x900a.com/jar/PandaQ240722.jar;md5;8acd4ef7fcab1cce77c82493d3569c6a"},
+{"key":"毛驴","name":"🚌肥猫-🦙┃毛驴┃影视","type":3,"api":"csp_MaoLv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://like.xn--z7x900a.com/jar/PandaQ240722.jar;md5;8acd4ef7fcab1cce77c82493d3569c6a"},
+{"key":"兄弟","name":"🚌肥猫-👯┃兄弟┃影视","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://like.xn--z7x900a.com/jar/PandaQ240722.jar;md5;8acd4ef7fcab1cce77c82493d3569c6a"},
+{"key":"达达龟","name":"🚌肥猫-🐢┃达达龟┃影视","type":3,"api":"csp_Dadag","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://like.xn--z7x900a.com/jar/PandaQ240722.jar;md5;8acd4ef7fcab1cce77c82493d3569c6a"},
+
+
          {
       "key": "X开源精粹-量子",
       "name": "关注公众号：X开源精粹",
