@@ -254,31 +254,8 @@
 
           
     {"key":"🔥码上看RARBT","name":"🔥RARBT┃多线","type":3,"api":"csp_Rarbt","searchable":1,"quickSearch":1,"filterable":1     },
-{"key":"剧圈圈","name":"🇹剧圈┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/剧圈圈.json"},
-    {
-      "key": "剧圈2",
-      "name": "💢剧圈┃秒播",
-      "type": 3,
-      "playerType": "1",
-      "changeable": 0,
-      "api": "csp_XBPQ",
-      "ext": {
-        "主页url": "https://www.jqqzx.cc/",
-        "请求头": "Referer$https://www.jqqzx.cc/#Cookie$filter_robot_cs=301#User-Agent$Mozilla/5.0(iPad;CPUOS10_3_1likeMacOSX)AppleWebKit/603.1.30(KHTML,likeGecko)Version/10.0Mobile/14E304Safari/602.1",
-        "副标题": "pic-texttext-right\">&&</b>",
-        "嗅探词": ".m3u8#.mp4#tos#video_mp4#v3-dy-o.zjcdn.com",
-        "搜索模式": "1",
-        "搜索url": "https://www.jqqzx.cc/type/id-.html?wd={wd}",
-        "影片类型": "<divclass=\"module-info-tag\">&&立即播放",
-        "导演": "导演：&&</div>",
-        "主演": "主演：&&</div>",
-        "简介": "introduction-content\">&&</span>",
-        "线路数组": "data-toggle=&&</li>",
-        "线路标题": "\"tab\">&&</a>[不包含:线路1#线路2#线路3#][替换:FY线路>>无广告有4K#KKJ线路>>无告1080P#LZ线路>>广告1#FF线路>>广告2#YZ线路>>广告3]",
-        "分类": "电影$dianying#剧集$dianshiju#综艺$zongyi#动漫$dongman#纪录片$jilupian",
-        "分类url": "https://www.jqqzx.cc/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html"
-      }
-    },
+//{"key":"剧圈圈","name":"🇹剧圈┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/剧圈圈.json"},
+    
   
    {
             "key": "csp_XYQHiker_A8",
@@ -445,13 +422,12 @@
 {"key":"视觉","name":"🚌fan-👓视觉┃多线","type":3,"api":"csp_Xinsj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.80yy3.com/","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715069751639/fan.txt;md5;ccc15f8c3df51befa578c1ce8632359f"},
 
 
-{"key":"csp_Juqq","name":"🚌肥猫-⭕┃剧圈┃影视","type":3,"playerType":"2","api":"csp_Juqq","jar":"https://like.xn--z7x900a.com/jar/PandaQ240722.jar;md5;8acd4ef7fcab1cce77c82493d3569c6a"},
 {"key":"黑狐","name":"🚌肥猫-🦊┃黑狐┃影视","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"2","api":"csp_XBPQ","ext":{"站名":"黑狐影院","主页url":"http://fagmn.com","数组":"class=\"stui-vodlist__box\"&&&&","搜索url":"http://fagmn.com/search.php;post;searchword={wd}","搜索模式":"1","搜索数组":"","搜索图片":"data-original=\"&&\"","搜索标题":"title=\"&&\"","搜索链接":"href=\"&&\"","搜索副标题":"&&","搜索后缀":"/view/","线路数组":"href=\"#down&&/a>[替换:奇异视频>>黑狐一线#优酷视频>>黑狐二线#搜狐视频>>黑狐三线#咪咕视频>>黑狐四线]","线路标题":">&&<","播放数组":"class=\"stui-content__playlistclearfix&&","状态":"地区：&&","导演":"导演：&&","主演":"主演：&&","简介":"简介：&&","播放列表":"","播放标题":">&&<","播放链接":"href=\"&&\"","免嗅":"0","分类":"电影$1#电视剧$2#动漫$3#综艺$4","分类url":"http://fagmn.com/list/{cateId}_{catePg}.html?order=time"},
 "jar":"https://like.xn--z7x900a.com/jar/PandaQ240722.jar;md5;8acd4ef7fcab1cce77c82493d3569c6a"},
 {"key":"csp_SC1080","name":"🚌肥猫-🏰┃圣城┃影视","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://like.xn--z7x900a.com/jar/PandaQ240722.jar;md5;8acd4ef7fcab1cce77c82493d3569c6a"},
 
 
-{"key": "悠云追剧","name": "🇹优云┃影视","type": 3,"ua": "okhttp/3.15","api": "csp_XBPQ","ext": {"简介":">&&</div>","分类url": "https://www.yoyys.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "电影$1#连续剧$2#动漫$4#综艺$3"}},
+
 
 {"key": "凯奇追剧","name": "🇹凯奇┃影视","type": 3,"ua": "okhttp/3.15","api": "csp_XBPQ","ext": {"简介":"+hl-content-text\">&&</span>","分类url": "https://www.kqyy.tv/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#短剧$duanshipin"}},
  {
@@ -496,6 +472,8 @@
                 "经典片"
             ]      
     },
+
+    {"key":"drjs_神马电影[搜]","name":"雷蒙影视 | 👺神马电影[搜](DRPY)","type":3,"api":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/n3rddd/N3RD/c4363f2732964f634116f8a31fc24eee7032f068/JN/dr_py/libs/drpy2.min.js","ext":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/n3rddd/N3RD/c4363f2732964f634116f8a31fc24eee7032f068/JN/dr_py/js/神马电影[搜].js"},
 
          {
       "key": "X开源精粹-量子",
