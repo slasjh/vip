@@ -257,12 +257,7 @@
 
 
    {"key": "csp_XYQHiker_在线之家","name":"🏠美剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/在线之家.json", "jar":"./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649"},
-// {"key":"csp_视觉","name":"👓美剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-//"ext":"./lib/xinshijue.json","jar": "./lib/小米ab.jar"},
 
- //   {"key": "dr_码上时光", "name": "☀️接口②", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://raw.gitmirror.com/bestpvp/tm/main/source/nightly/sites/码上/时光影视.js"}, 
-  
- // {"key": "码上👓猫-🛣┃低端", "name": "🛣接口②", "type": 3, "playerType": "2", "api": "./js/lib/drpy2.min.js", "ext": "./lib/ddys.js"},
       {
     "key": "csp_XBPQ_可可",
     "name": "🉑接口①",
