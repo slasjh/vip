@@ -235,7 +235,8 @@
    {"key": "dr_看动漫", "name": "🅱哔哩┃官方", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/哔哩影视.js"} ,
                  
 
-          
+        {"key":"🚀皮皮|JAR","name":"🚀皮皮|JAR","type":3,"api":"csp_XBPQ","playerType":"2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/nightly/sites/码上/pp.json"},
+{"key":"🚀虎虎|JAR","name":"🚀虎虎|JAR","type":3,"api":"csp_XBPQ","playerType":"2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/nightly/sites/码上/hh.json"},        
     
   
    {
@@ -250,6 +251,7 @@
             "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
         },
             
+ {"key": "极客影视","name": "🐻极客┃多线","type": 3,"changeable": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "csp_XBPQ","ext": {"站名": "极客影视","主页url": "http://www.jikedy.com/","搜索url": "http://www.jikedy.com/vodsearch/{wd}----------{pg}---.html","播放数组": "class=\"hl-plays-list&&</ul>","播放标题": ">&&</a>","播放链接": "href=\"&&\"","播放列表": "<li&&</li>","分类url": "http://www.jikedy.com/show/{cateId}-{area}-{by}------{catePg}---{year}.html;;d0","分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},
 
  {
       "key": "ikanbot3",
@@ -258,12 +260,6 @@
       "api": "https://gitlab.com/mfkdy/vip/-/raw/main/js/lib/drpy2.min.js",
       "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/ikanbot3.js"
     },
-
-    {"key": "极客影视","name": "🐻极客┃多线","type": 3,"changeable": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "csp_XBPQ","ext": {"站名": "极客影视","主页url": "http://www.jikedy.com/","搜索url": "http://www.jikedy.com/vodsearch/{wd}----------{pg}---.html","播放数组": "class=\"hl-plays-list&&</ul>","播放标题": ">&&</a>","播放链接": "href=\"&&\"","播放列表": "<li&&</li>","分类url": "http://www.jikedy.com/show/{cateId}-{area}-{by}------{catePg}---{year}.html;;d0","分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},
-
-
- 
-
 
 
         {
@@ -342,13 +338,9 @@
 {"key":"茶狐杯","name":"🇹茶杯狐┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/茶狐杯.json"},
 
 
-{"key":"348影视","name":"🇹三四八┃秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/348.json"},
-
-{"key":"csp_五五","name":"🇹五五┃秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/55.json"},
 {"key":"美柏","name":"🇹美柏┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/美柏.json"},
 
-      {"key":"🚀皮皮|JAR","name":"🚀皮皮|JAR","type":3,"api":"csp_XBPQ","playerType":"2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/nightly/sites/码上/pp.json"},
-{"key":"🚀虎虎|JAR","name":"🚀虎虎|JAR","type":3,"api":"csp_XBPQ","playerType":"2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/nightly/sites/码上/hh.json"},
+
 
  {"key":"奈非naifei.art5",
      "name":"🛩奈非XB┃多线",
