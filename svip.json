@@ -187,6 +187,15 @@
             "categories": [
                 "动作片", "喜剧片",  "爱情片", "科幻片", "恐怖片", "战争片", "灾难片", "悬疑片", "奇幻片", "纪录片",  "内地剧", "香港剧", "台湾剧", "日剧", "韩剧", "马泰剧", "欧美剧", "动画片",  "中国动漫", "日本动漫", "欧美动漫", "大陆综艺",  "港台综艺", "日韩综艺", "欧美综艺", "体育赛事" ]
         },
+        {
+            "key": "heimuer",
+            "name": "黑木耳┃切片",
+            "type": 1,
+            "api": "https://json.heimuer.xyz/api.php/provide/vod",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+                "日本动漫", "国产动漫",  "欧美动漫", "国产剧", "韩剧", "日剧", "台剧", "泰剧", "港剧", "欧美剧", "动画电影",  "韩国综艺", "国产综艺", "日本综艺", "欧美综艺", "冒险片", "剧情片", "动作片", "同性片", "喜剧片", "奇幻片", "恐怖片", "悬疑片",  "惊悚片", "战争片", "歌舞片","灾难片", "爱情片", "犯罪片", "科幻片", "纪录片", "经典片" ]      },
        
   {"key":"🔥码上看RARBT","name":"🔥RARBT┃多线","type":3,"api":"csp_Rarbt","searchable":1,"quickSearch":1,"filterable":1     },      
       {
@@ -229,10 +238,10 @@
 "搜索url": "https://www.ncat3.com:51111/search?k={wd}" }
 },
 {"key":"天龙高清","name":"🐉天龙┃多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"发布地址":"http://113276.xyz","数组":"<li><a&&BR>分类","图片":"src=\"&&\"","副标题":"BR>状态：&&<","简介":"</font></br>&&</div>","线路数组":"<i class=\"iconfont\"&&/font","线路标题":"</i>&&<","播放数组":"<div class=\"list playlist&&</div","播放链接":"http://www.82mao.com/+href=\"javascript:OpenWindow3(\'/&&\',window)\"","跳转播放链接":"http://cdn.tl86dyw.site/cs1/?id=+var player_*url\":\"&&\"","搜索url":"http://www.82mao.com/Search/{wd}----------{pg}---.html","分类url":"http://www.82mao.com/List/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$53#电影频道$17#电视剧场$18#综艺小品$20#动漫频道$48#经典系列$16#动作片$1#喜剧片$2#爱情片$3#科幻片$4#恐怖片$5#剧情片$6#战争片$13#纪录片$14#微电影$19#国产剧$9#香港剧$10#台湾剧$21#韩国剧$12#日本剧$22#欧美剧$11#泰国剧$23#海外剧$24#TVB专区$52#综艺片$8#内地综艺$25#港台综艺$26#日韩综艺$27#欧美综艺$28#动画片$7#国产动漫$29#日韩动漫$30#欧美动漫$31#港台动漫$32#海外动漫$33"}},
- { "key": "电影港4k磁力",    "name": "🚤电影港┃磁力",      "type": 3,    "api": "csp_XYQHiker",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 1,    "ext": "./lib/电影港磁力.json",      "jar":"./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649" },
+ { "key": "电影港4k磁力",    "name": "🚤电影港┃4k",      "type": 3,    "api": "csp_XYQHiker",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 1,    "ext": "./lib/电影港磁力.json",      "jar":"./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649" },
 
   {"key": "dr_码上看荐片", "name": "🎬荐片┃P2P", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/荐片.js"},
-   {"key": "dr_看动漫", "name": "🅱哔哩┃官方", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/哔哩影视.js"} ,
+   {"key": "dr_看动漫", "name": "🅱哔哩┃动漫", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/哔哩影视.js"} ,
                  
 
         {"key":"🚀皮皮|JAR","name":"🚀皮皮|JAR","type":3,"api":"csp_XBPQ","playerType":"2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/nightly/sites/码上/pp.json"},
@@ -405,48 +414,7 @@
 
 
 {"key": "凯奇追剧","name": "🇹凯奇┃影视","type": 3,"ua": "okhttp/3.15","api": "csp_XBPQ","ext": {"简介":"+hl-content-text\">&&</span>","分类url": "https://www.kqyy.tv/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#短剧$duanshipin"}},
- {
-            "key": "heimuer",
-            "name": "黑木耳┃接口",
-            "type": 1,
-            "api": "https://json.heimuer.xyz/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1,
-            "categories": [
-                "日本动漫",
-                "国产动漫",
-                "欧美动漫",
-                "国产剧",
-                "韩剧",
-                "日剧",
-                "台剧",
-                "泰剧",
-                "港剧",
-                "欧美剧",
-                "动画电影",
-                "韩国综艺",
-                "国产综艺",
-                "日本综艺",
-                "欧美综艺",
-                "冒险片",
-                "剧情片",
-                "动作片",
-                "同性片",
-                "喜剧片",
-                "奇幻片",
-                "恐怖片",
-                "悬疑片",
-                "惊悚片",
-                "战争片",
-                "歌舞片",
-                "灾难片",
-                "爱情片",
-                "犯罪片",
-                "科幻片",
-                "纪录片",
-                "经典片"
-            ]      
-    },
+ 
 
     {"key":"drjs_神马电影[搜]","name":"👺神马┃仅搜索","type":3,"api":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/n3rddd/N3RD/c4363f2732964f634116f8a31fc24eee7032f068/JN/dr_py/libs/drpy2.min.js","ext":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/n3rddd/N3RD/c4363f2732964f634116f8a31fc24eee7032f068/JN/dr_py/js/神马电影[搜].js"},
 
