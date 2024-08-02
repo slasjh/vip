@@ -423,6 +423,17 @@
 {"key":"毛驴","name":"🚌肥猫-🦙┃毛驴┃影视","type":3,"api":"csp_MaoLv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://like.xn--z7x900a.com/jar/PandaQ240722.jar;md5;8acd4ef7fcab1cce77c82493d3569c6a"},
 {"key":"兄弟","name":"🚌肥猫-👯┃兄弟┃影视","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://like.xn--z7x900a.com/jar/PandaQ240722.jar;md5;8acd4ef7fcab1cce77c82493d3569c6a"},
 {"key":"达达龟","name":"🚌肥猫-🐢┃达达龟┃影视","type":3,"api":"csp_Dadag","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://like.xn--z7x900a.com/jar/PandaQ240722.jar;md5;8acd4ef7fcab1cce77c82493d3569c6a"},
+{
+      "key": "红狐狸影院",
+      "name": "☪红狐狸┃秒播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "简介": "+line-height: 20px;\">&&</div>",
+        "分类url": "https://honghuli.com/leibiao/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+        "分类": "短剧$35#电影$1#连续剧$2#动漫$4#综艺$3"
+      }
+    },
 
 
          {
