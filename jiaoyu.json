@@ -31,11 +31,13 @@
          {
       "key": "X开源精粹-量子",
       "name": "关注公众号：X开源精粹",
-      "searchable": 1},
+                 "api": "",
+            "type": 1},
       {
       "key": "X影视仓-快看",
       "name": "关注公众号：X影视仓",
-      "searchable": 1}
+                 "api": "",
+            "type": 1}
 
 
   
