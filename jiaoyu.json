@@ -75,7 +75,7 @@
       "searchable": 0,
       "changeable": 0 ,"categories": ["记录片","纪录片"]},
 
- {"key": "X影视仓-火狐资源", "name": "关注公众号：X影视仓", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list", "searchable": 0, "quickSearch": 0, "categories": [ "纪录片"]} 
+ {"key": "X影视仓-索尼", "name": "关注公众号：X影视仓", "type": 1, "api": "https://suoniapi.com/api.php/provide/vod/?ac=list", "searchable": 0, "quickSearch": 0, "categories": [ "纪录片"]} 
 
   
  
