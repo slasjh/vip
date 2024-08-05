@@ -31,20 +31,16 @@
          {
       "key": "X开源精粹-量子",
       "name": "关注公众号：X开源精粹",
-      "type": 0,
-      "searchable": 1,
-      "changeable": 1 ,"categories": ["动画片","动漫","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
+      "searchable": 1},
       {
       "key": "X影视仓-快看",
       "name": "关注公众号：X影视仓",
-      "type": 0,
-      "searchable": 1,
-      "changeable": 1,"categories": ["国产动漫","日本动漫","欧美动漫","港台动漫"]}
+      "searchable": 1}
 
 
   
  
-  //结尾  
+
   ],
 
 
@@ -192,9 +188,8 @@
         ".m3u8"
       ]
     },
-    //一起看
+
    {"name": "yqk-1", "hosts": ["ydd.yqkdd6","ydd.vsmql","ydd.yqk66"], "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-CUE-OUT:DURATION=18\\.433333[\\s\\S]*?#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-CUE-IN","#EXT-X-DISCONTINUITY[\\s\\S]*?#EXT-X-CUE-IN","#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-CUE-OUT:DURATION=15\\.166667[\\s\\S]*?#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-CUE-IN","#EXTINF.*?\\s+.*?\\/video2\\/slice\\/hls.*?\\.ts"]}, 
-  //  {"name": "yqk-2", "hosts": ["ydd.vsmql"], "regex": ["video2/slice/hls","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY","index0.ts","index1.ts","index2.ts","index3.ts"]},
 
     {"name": "yqk-4", "hosts": ["ydd."], "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-CUE-OUT:DURATION=18.433333[\\s\\S]*?#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-CUE-IN","#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-CUE-OUT:DURATION=15.166667[\\s\\S]*?#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-CUE-IN","#EXT-X-DISCONTINUITY[\\s\\S]*?#EXT-X-CUE-IN","#EXTINF.*?\\s+.*?\\/video2\\/slice\\/hls.*?\\.ts"]}, 
 
