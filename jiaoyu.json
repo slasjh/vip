@@ -15,225 +15,29 @@
   ],
 
   "sites": [
-   {"key": "dr_看动漫", "name": "🔥X开源精粹┃官方", "type": 3, "api": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/哔哩影视.js"} ,
- {
-            "key": "cjzy_360资源",
-            "name": "🔥X影视仓┃秒播",
-            "type": 1,
-            "api": "https://360zy.com/api.php/provide/vod",
-            "playUrl": "",
-            "categories": [
-                "国产动漫",
-                "日韩动漫",
-                "动漫片"
-            ]
-        },
-          
 
-              {
-            "key": "兔小贝",
-            "name": "🔥X开源精粹┃儿童启蒙",
-            "type": 3,
-            "api": "http://dp.sxtv.top:88/js/drpy.min.js",
-            "ext": "http://dp.sxtv.top:88/js/兔小贝.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
-        },
-               {
-            "key": "儿童拼音",
-            "name": "教育 | 儿童拼音",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar":"http://dp.sxtv.top:88/sx.jar;md5;0840fd78292d4a87dfa48dbebd3e6466",
-            "ext": "http://dp.sxtv.top:88/json/儿童拼音.json"
-        },
-        {
-            "key": "儿童识字",
-            "name": "教育 | 儿童识字",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://dp.sxtv.top:88/json/儿童识字.json"
-        },
-        {
-            "key": "儿童英语",
-            "name": "教育 | 儿童英语",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://dp.sxtv.top:88/json/儿童英语.json"
-        },
-        {
-            "key": "儿童硬笔",
-            "name": "教育 | 儿童硬笔",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://dp.sxtv.top:88/json/儿童硬笔.json"
-        },
-        {
-            "key": "儿童思维",
-            "name": "教育 | 儿童思维",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://dp.sxtv.top:88/json/儿童思维.json"
-        },
-        {
-            "key": "儿童口才",
-            "name": "教育 | 儿童口才",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://dp.sxtv.top:88/json/儿童口才.json"
-        },
-        {
-            "key": "儿童编程",
-            "name": "教育 | 儿童编程",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://dp.sxtv.top:88/json/儿童编程.json"
-        },
-        {
-            "key": "儿童武术",
-            "name": "教育 | 儿童武术",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://dp.sxtv.top:88/json/儿童武术.json"
-        },
-        {
-            "key": "少儿教育",
-            "name": "教育 | 少儿教育",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "http://dp.sxtv.top:88/json/少儿教育.json"
-        },
-        {
-            "key": "小学课堂",
-            "name": "教育 | 小学课堂",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "http://dp.sxtv.top:88/json/小学课堂.json"
-        },
-        {
-            "key": "初中课堂",
-            "name": "教育 | 初中课堂",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "http://dp.sxtv.top:88/json/初中课堂.json"
-        },
-        {
-            "key": "高中教育",
-            "name": "教育 | 高中课堂",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "http://dp.sxtv.top:88/json/高中课堂.json"
-        },
-        {
-            "key": "外语课堂",
-            "name": "教育 | 外语课堂",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "http://dp.sxtv.top:88/json/外语课堂.json"
-        },
-        {
-            "key": "小灯塔百科",
-            "name": "教育 | 小灯塔百科",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://dp.sxtv.top:88/json/小灯塔百科.json"
-        },
-        {
-            "key": "小灯塔科学",
-            "name": "教育 | 小灯塔科学",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://dp.sxtv.top:88/json/小灯塔科学.json"
-        },
-        {
-            "key": "小灯塔地理",
-            "name": "教育 | 小灯塔地理",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://dp.sxtv.top:88/json/小灯塔地理.json"
-        },
-        {
-            "key": "小灯塔国学",
-            "name": "教育 | 小灯塔国学",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://dp.sxtv.top:88/json/小灯塔国学.json"
-        },
-        {
-            "key": "小灯塔人文",
-            "name": "教育 | 小灯塔人文",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://dp.sxtv.top:88/json/小灯塔人文.json"
-        },
+          
+            {"key":"dr_兔小贝","name":"📚X开源精粹┃儿童","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js","style":{"type":"rect","ratio":1.597},
+"searchable":0,"quickSearch":0,"changeable":0},
+{"key":"少儿教育","name":"📚X开源精粹┃少儿","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
+"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/少儿教育.json"},
+{"key":"小学课堂","name":"📚X开源精粹┃小学","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
+"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/小学课堂.json"},
+{"key":"初中课堂","name":"📚X开源精粹┃初中","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
+"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/初中课堂.json"},
+{"key":"高中教育","name":"📚X开源精粹┃高中","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
+"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"},
 
          {
       "key": "X开源精粹-量子",
       "name": "关注公众号：X开源精粹",
       "type": 0,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "changeable": 1 ,"categories": ["动画片","动漫","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
       {
       "key": "X影视仓-快看",
       "name": "关注公众号：X影视仓",
       "type": 0,
-      "api": "https://kuaikan-api.com/api.php/provide/vod/",
       "searchable": 1,
       "changeable": 1,"categories": ["国产动漫","日本动漫","欧美动漫","港台动漫"]}
 
