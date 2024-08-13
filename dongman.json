@@ -163,7 +163,7 @@
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/dm/drpy.min.js",
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/dm/怡萱动漫.js"
         },
-
+{"key":"drpy_js_哔哩影视","name":"哔哩┃影视","type":3,"api":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/gaotianliuyun/gao/e36913bc2b9fa449a5ea61ff5d5257c630baf1ec/lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/gaotianliuyun/gao/e36913bc2b9fa449a5ea61ff5d5257c630baf1ec/js/%E5%93%94%E5%93%A9%E5%BD%B1%E8%A7%86.js"},
 
  
  {"key": "csp_XYQHiker_在线之家","name":"🏠在线┃美漫","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/dm/在线之家动漫.json ","jar":"./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649"},
