@@ -211,14 +211,19 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "{\"主演\":\"主演：&&</div>\",\"简介\":\"<p>&&<p>\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\":\"class=\\\"module-tab-itemtab-item&&</div>\",\"线路标题\":\"<span>&&</small>[不包含:夸克4K]\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$1#电视剧$2#动漫$4#综艺$3\",\"分类url\":\"https://www.3ayy.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}"},
+            {"key":"天龙高清","name":"🐉天龙┃多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"发布地址":"http://113276.xyz","数组":"<li><a&&BR>分类","图片":"src=\"&&\"","副标题":"BR>状态：&&<","简介":"</font></br>&&</div>","线路数组":"<i class=\"iconfont\"&&/font","线路标题":"</i>&&<","播放数组":"<div class=\"list playlist&&</div","播放链接":"http://www.82mao.com/+href=\"javascript:OpenWindow3(\'/&&\',window)\"","跳转播放链接":"http://cdn.tl86dyw.site/cs1/?id=+var player_*url\":\"&&\"","搜索url":"http://www.82mao.com/Search/{wd}----------{pg}---.html","分类url":"http://www.82mao.com/List/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$53#电影频道$17#电视剧场$18#综艺小品$20#动漫频道$48#经典系列$16#动作片$1#喜剧片$2#爱情片$3#科幻片$4#恐怖片$5#剧情片$6#战争片$13#纪录片$14#微电影$19#国产剧$9#香港剧$10#台湾剧$21#韩国剧$12#日本剧$22#欧美剧$11#泰国剧$23#海外剧$24#TVB专区$52#综艺片$8#内地综艺$25#港台综艺$26#日韩综艺$27#欧美综艺$28#动画片$7#国产动漫$29#日韩动漫$30#欧美动漫$31#港台动漫$32#海外动漫$33"}},
+            {
+            "key": "csp_XYQHiker_A8",
+            "name": "🥌A8┃多线",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/A8影视.json",
+            "jar":"./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649"
+        },
 
- {
-      "key": "ikanbot3",
-      "name": "🤖机器┃多线",
-      "type": 3,
-      "api": "https://gitlab.com/mfkdy/vip/-/raw/main/js/lib/drpy2.min.js",
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/ikanbot3.js"
-    },
 
      {"key": "dr_码上看荐片", "name": "🎬荐片┃P2P", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/荐片.js"},
 
@@ -322,6 +327,8 @@
                 "电影","连续剧","动漫","综艺","Netflix"]
         },
 
+
+
  // {"key": "csp_XYQHiker_555影视","name":"🌙接口⑥","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1, "jar": "./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649","ext":"https://gitlab.com/mfkdy/cy/-/raw/main/lib/555影视.json"},
  {"key": "csp_XYQHiker_影视工场2","name": "🏭工场┃老站","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,  
 "changeable": 1,"filterable": 1,"ext": "./lib/影视工场2.json",  "jar":"./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649" },
@@ -344,7 +351,7 @@
       "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/热播之家.json"
 
     },
-{"key":"天龙高清","name":"🐉天龙┃多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"发布地址":"http://113276.xyz","数组":"<li><a&&BR>分类","图片":"src=\"&&\"","副标题":"BR>状态：&&<","简介":"</font></br>&&</div>","线路数组":"<i class=\"iconfont\"&&/font","线路标题":"</i>&&<","播放数组":"<div class=\"list playlist&&</div","播放链接":"http://www.82mao.com/+href=\"javascript:OpenWindow3(\'/&&\',window)\"","跳转播放链接":"http://cdn.tl86dyw.site/cs1/?id=+var player_*url\":\"&&\"","搜索url":"http://www.82mao.com/Search/{wd}----------{pg}---.html","分类url":"http://www.82mao.com/List/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$53#电影频道$17#电视剧场$18#综艺小品$20#动漫频道$48#经典系列$16#动作片$1#喜剧片$2#爱情片$3#科幻片$4#恐怖片$5#剧情片$6#战争片$13#纪录片$14#微电影$19#国产剧$9#香港剧$10#台湾剧$21#韩国剧$12#日本剧$22#欧美剧$11#泰国剧$23#海外剧$24#TVB专区$52#综艺片$8#内地综艺$25#港台综艺$26#日韩综艺$27#欧美综艺$28#动画片$7#国产动漫$29#日韩动漫$30#欧美动漫$31#港台动漫$32#海外动漫$33"}},
+
  {
             "key": "APP影院",
             "name": "✌️️App┃多线",
@@ -357,17 +364,13 @@
 
         },
 
-                     {
-            "key": "csp_XYQHiker_A8",
-            "name": "🥌A8┃多线",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/A8影视.json",
-            "jar":"./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649"
-        },
+              {
+      "key": "ikanbot3",
+      "name": "🤖机器┃多线",
+      "type": 3,
+      "api": "https://gitlab.com/mfkdy/vip/-/raw/main/js/lib/drpy2.min.js",
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/ikanbot3.js"
+    },                
 
                         
 
