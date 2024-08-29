@@ -187,7 +187,10 @@
   "图片": "data-original=\"&&\"",
   "标题": "title=\"&&\"",
   "链接": "href=\"&&\"" }
-},    {
+},
+{"key":"🚀短剧吧|JAR","name":"🚀短剧吧","type":3,"api":"csp_XBPQ","playerType":"2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/nightly/sites/码上/duan8.json"},
+{"key":"🚀短剧驿站|JAR","name":"🚀短剧驿站","type":3,"api":"csp_XBPQ","playerType":"2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/nightly/sites/码上/duan1.json"},
+    {
       "key": " 在线┃直播2",
       "name": "📺网红直播",
       "type": 3,
